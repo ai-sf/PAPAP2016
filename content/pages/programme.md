@@ -24,71 +24,64 @@ image2description: wikimedia credits
             <th data-field="friday">Friday 18/12</th>
 	    <th data-field="saturday">Saturday 19/12</th>
 	    <th data-field="sunday">Sunday 20/12</th>
-        <th data-field="monday">Monday 21/12</th>
+            <th data-field="monday">Monday 21/12</th>
 	  </tr>
         </thead>
 	
         <tbody>
-		  <tr>
+	  <tr>
 	    <td>9:00</td>
 	    <td></td>
-	    <td><hr>LENS</td>
-	    <td><hr>unipi Physics Facilities</td>
-	    <td><hr>Tourism in Florence</td>
-	    <td><hr>NEST/SSSUP</td>
+	    <td>LENS</td>
+	    <td>unipi Physics Facilities</td>
+	    <td>Tourism in Florence</td>
+	    <td>NEST/SSSUP</td>
 	  </tr>	  <tr>
 	    <td>11:30</td>
 	    <td></td>
 	    <td></td>
-	    <td><hr>Guest lectures</td>
-	    <td></td>
-	    <td></td>
-	  </tr>	  <tr>
-	    <td>12:30</td>
-	    <td></td>
-	    <td></td>
-	    <td></td>
+	    <td>Guest lectures</td>
 	    <td></td>
 	    <td></td>
 	  </tr>	  <tr>
 	    <td>13:00</td>
 	    <td></td>
 	    <td></td>
-	    <td><hr>Lunch</td>
+	    <td>Lunch</td>
 	    <td></td>
-	    <td><hr>Lunch</td>
+	    <td>Lunch</td>
 	  </tr>	  <tr>
 	    <td>14:00</td>
 	    <td></td>
 	    <td></td>
-	    <td><hr>VIRGO</td>
+	    <td>VIRGO</td>
 	    <td></td>
-	    <td><hr>Departure</td>
+	    <td>Departure</td>
 	  </tr>	  <tr>
 	    <td>16:00</td>
-	    <td><hr>Opening Ceremony</td>
+	    <td>Opening Ceremony</td>
 	    <td></td>
 	    <td></td>
 	    <td></td>
 	    <td></td>
 	  </tr>	  <tr>
 	    <td>17:00</td>
-	    <td><hr>EPS Light Talk</td>
+	    <td>EPS Light Talk</td>
 	    <td></td>
 	    <td></td>
 	    <td></td>
 	    <td></td>
 	  </tr>	  <tr>
 	    <td>20:00</td>
-	    <td><hr>Dinner</td>
-	    <td><hr>Dinner</td>
-	    <td><hr>Dinner</td>
-	    <td><hr>Dinner in Florence</td>
+	    <td>Dinner</td>
+	    <td>Dinner</td>
+	    <td>Dinner</td>
+	    <td>Dinner in Florence</td>
 	    <td></td>
 	  </tr>	  <tr>
 	    <td>21:00</td>
-	    <td><hr>Nightly visit of Pisa</td>
-	    <td><hr>Free evening</td>
+	    <td>Nightly visit of Pisa</td>
+	    <td>Free evening</td>
 	    <td></td>
 	    <td></td>
 	    <td></td>
@@ -99,7 +92,9 @@ image2description: wikimedia credits
     </div>
   </div>
 </div>
+
 <div class="section">
+  <h4> Location </h4>
   
   <div class="row">
     <div class="col s12">
@@ -123,9 +118,9 @@ image2description: wikimedia credits
 	<p>The <a class="orange-text" href="https://www.df.unipi.it/">Physics Department</a> of the University of Pisa is in Largo Bruno Pontecorvo 3 - 56127 Pisa.</p>
       </div>
     </div>
-	</div>
+  </div>
 
-<h4>The Facilities</h4>
+  <h4>The Facilities</h4>
 
   <div class="row">
     <div class="col s12">
@@ -152,7 +147,7 @@ image2description: wikimedia credits
   <div class="row">
     <div class="col s12">
       <div class="col s12 l4">
-<iframe width="100%" height="350" src="http://www.openstreetmap.org/export/embed.html?bbox=10.461130142211914%2C43.60805300638365%2C10.546960830688475%2C43.653838531901684&amp;layer=mapnik&amp;marker=43.630950129091815%2C10.504045486450195" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=43.6310&amp;mlon=10.5040#map=14/43.6310/10.5040">View Larger Map</a></small>
+	<iframe width="100%" height="350" src="http://www.openstreetmap.org/export/embed.html?bbox=10.461130142211914%2C43.60805300638365%2C10.546960830688475%2C43.653838531901684&amp;layer=mapnik&amp;marker=43.630950129091815%2C10.504045486450195" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=43.6310&amp;mlon=10.5040#map=14/43.6310/10.5040">View Larger Map</a></small>
       </div>
       <div class="col s12 l8">
 	<h5>VIRGO</h5>
