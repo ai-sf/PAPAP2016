@@ -104,7 +104,7 @@ image2description: wikimedia credits
   <div class="row">
     <div class="col s12">
       <div class="col s12 l4">
-	<iframe width="400" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=10.400530993938446%2C43.707104898408254%2C10.403213202953339%2C43.70853386481875&amp;layer=mapnik&amp;marker=43.707819385871794%2C10.401872098445892" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=43.70782&amp;mlon=10.40187#map=19/43.70782/10.40187">View Larger Map</a></small>
+	<iframe width="100%" height="350" src="http://www.openstreetmap.org/export/embed.html?bbox=10.400530993938446%2C43.707104898408254%2C10.403213202953339%2C43.70853386481875&amp;layer=mapnik&amp;marker=43.707819385871794%2C10.401872098445892" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=43.70782&amp;mlon=10.40187#map=19/43.70782/10.40187">View Larger Map</a></small>
       </div>
       <div class="col s12 l8">
 	<h5>Accommodation</h5>
@@ -116,7 +116,7 @@ image2description: wikimedia credits
   <div class="row">
     <div class="col s12">
       <div class="col s12 l4">
-	<iframe width="400" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=10.406464040279387%2C43.72003415578004%2C10.409146249294281%2C43.721462813926216&amp;layer=mapnik&amp;marker=43.72074848911151%2C10.407805144786835" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=43.72075&amp;mlon=10.40781#map=19/43.72075/10.40781">View Larger Map</a></small>
+	<iframe width="100%" height="350" src="http://www.openstreetmap.org/export/embed.html?bbox=10.406464040279387%2C43.72003415578004%2C10.409146249294281%2C43.721462813926216&amp;layer=mapnik&amp;marker=43.72074848911151%2C10.407805144786835" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=43.72075&amp;mlon=10.40781#map=19/43.72075/10.40781">View Larger Map</a></small>
       </div>
       <div class="col s12 l8">
 	<h5>Opening Ceremony</h5>
@@ -130,7 +130,7 @@ image2description: wikimedia credits
   <div class="row">
     <div class="col s12">
       <div class="col s12 l4">
-	<iframe width="400" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=11.1875581741333%2C43.815934398430606%2C11.198287010192871%2C43.82163967154139&amp;layer=mapnik&amp;marker=43.818787103130106%2C11.192922592163086" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=43.81879&amp;mlon=11.19292#map=17/43.81879/11.19292">View Larger Map</a></small>
+	<iframe width="100%" height="350" src="http://www.openstreetmap.org/export/embed.html?bbox=11.1875581741333%2C43.815934398430606%2C11.198287010192871%2C43.82163967154139&amp;layer=mapnik&amp;marker=43.818787103130106%2C11.192922592163086" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=43.81879&amp;mlon=11.19292#map=17/43.81879/11.19292">View Larger Map</a></small>
       </div>
       <div class="col s12 l8">
 	<h5>LENS</h5>
@@ -141,7 +141,7 @@ image2description: wikimedia credits
   <div class="row">
     <div class="col s12">
       <div class="col s12 l4">
-	<iframe width="400" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=10.406464040279387%2C43.72003415578004%2C10.409146249294281%2C43.721462813926216&amp;layer=mapnik&amp;marker=43.72074848911151%2C10.407805144786835" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=43.72075&amp;mlon=10.40781#map=19/43.72075/10.40781">View Larger Map</a></small>
+	<iframe width="100%" height="350" src="http://www.openstreetmap.org/export/embed.html?bbox=10.406464040279387%2C43.72003415578004%2C10.409146249294281%2C43.721462813926216&amp;layer=mapnik&amp;marker=43.72074848911151%2C10.407805144786835" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=43.72075&amp;mlon=10.40781#map=19/43.72075/10.40781">View Larger Map</a></small>
       </div>
       <div class="col s12 l8">
 	<h5>Physics Department of the University of Pisa</h5>
@@ -152,7 +152,7 @@ image2description: wikimedia credits
   <div class="row">
     <div class="col s12">
       <div class="col s12 l4">
-<iframe width="400" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=10.461130142211914%2C43.60805300638365%2C10.546960830688475%2C43.653838531901684&amp;layer=mapnik&amp;marker=43.630950129091815%2C10.504045486450195" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=43.6310&amp;mlon=10.5040#map=14/43.6310/10.5040">View Larger Map</a></small>
+<iframe width="100%" height="350" src="http://www.openstreetmap.org/export/embed.html?bbox=10.461130142211914%2C43.60805300638365%2C10.546960830688475%2C43.653838531901684&amp;layer=mapnik&amp;marker=43.630950129091815%2C10.504045486450195" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=43.6310&amp;mlon=10.5040#map=14/43.6310/10.5040">View Larger Map</a></small>
       </div>
       <div class="col s12 l8">
 	<h5>VIRGO</h5>
@@ -163,7 +163,7 @@ image2description: wikimedia credits
   <div class="row">
     <div class="col s12">
       <div class="col s12 l4">
-	<iframe width="400" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="http://www.openstreetmap.org/export/embed.html?bbox=10.404160022735594%2C43.71108342854477%2C10.414888858795164%2C43.71679871038723&amp;layer=mapnik&amp;marker=43.713943100885615%2C10.409522949999996" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=43.71394&amp;mlon=10.40952#map=17/43.71394/10.40952">View Larger Map</a></small>
+	<iframe width="100%" height="350" src="http://www.openstreetmap.org/export/embed.html?bbox=10.404160022735594%2C43.71108342854477%2C10.414888858795164%2C43.71679871038723&amp;layer=mapnik&amp;marker=43.713943100885615%2C10.409522949999996" style="border: 1px solid black"></iframe><br/><small><a href="http://www.openstreetmap.org/?mlat=43.71394&amp;mlon=10.40952#map=17/43.71394/10.40952">View Larger Map</a></small>
       </div>
       <div class="col s12 l8">
 	<h5>NEST</h5>
