@@ -34,10 +34,10 @@ image2description: wikimedia credits
 	</li><li>
 	  <p>Visit of the Uffizi Gallery: on Sunday we have scheduled a free day in Florence. If you want, we can book in advance the tickets for the Uffizi gallery, so you will not have to suffer the long queue. The additional cost is € 12,50.</p>
 	</li><li>
-	  <p>NEST or SSSUP: on Monday we will split in two groups and visit simultaneously and indipendently the NEST and SSSUP facilities. As a consequence, you have to choose between them</p>
+	  <p>NEST or SSSUP: on Monday we will split in two groups and visit simultaneously and indipendently the NEST and SSSUP facilities. As a consequence, you have to choose between one of them.</p>
 	  </li>
 	  <ul>
-	    <p>Note: if you are Italian and you are not an IAPS/AISF member yet you can become an AISF member while registering for this event: you need to compile <a class="orange-text" href="http://www.ai-sf.it/joomla/it/membri">this</a> module and make a single payment including both the quotes.</p>
+	    <p>Note: if you are Italian and you are not an IAPS/AISF member yet you can become an AISF member while registering for this event: you need to fill in <a class="orange-text" href="http://www.ai-sf.it/joomla/it/membri">this</a> module and make a single payment including both the quotes.</p>
     </div>
   </div>
 </div>

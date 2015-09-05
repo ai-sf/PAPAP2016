@@ -9,7 +9,7 @@ url: programme.html
 save_as: programme.html
 image1: pisa3.jpg
 image1description: wikimedia credits
-image2: florence33.jpg
+image2: florence3.jpg
 image2description: wikimedia credits
 
 <div class="section">
