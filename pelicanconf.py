@@ -72,7 +72,7 @@ HIDDEN_PAGES = ['Lights of Tuscany'] # The title of the index and/or other thing
 
 DATE = strftime("on %A, %d %B %Y %H:%M (%z)", localtime())
 
-#IGNORE_FILES = ['.#*','IYL*','Even*']
+IGNORE_FILES = ['.#*','*.xcf']
 
 FOOTER_ABOUT = "Associazione Italiana Studenti di Fisica"
 
