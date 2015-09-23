@@ -58,7 +58,7 @@ image2description: wikimedia credits
 	    <td></td>
 	    <td>Departure</td>
 	  </tr>	  <tr>
-	    <td>16:00</td>
+	    <td>15:00</td>
 	    <td>Opening Ceremony</td>
 	    <td></td>
 	    <td></td>
@@ -88,7 +88,7 @@ image2description: wikimedia credits
 	  </tr>
         </tbody>
       </table><br>
-      <p>Last update: September, 4th. The program may be subject to change.</p>
+      <p>Last update: September, 23th. The program may be subject to change.</p>
     </div>
   </div>
 </div>

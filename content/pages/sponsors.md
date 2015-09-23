@@ -21,10 +21,12 @@ image2description: wikimedia credits
   <ul class="collection">
     <li class="collection-item">European Physical Society</li>
     <li class="collection-item">Università di Pisa</li>
+	<li class="collection-item">Physics Department of the University of Pisa</li>
     <li class="collection-item">LENS</li>
     <li class="collection-item">VIRGO</li>
     <li class="collection-item">NEST</li>
-    <li class="collection-item">Physics Department of the University of Pisa</li>
+    <li class="collection-item">Scuola Normale Superiore</li>
+	<li class="collection-item">DSU Toscana</li>
   </ul>
 </div>
 <div class="section">
