@@ -9,7 +9,7 @@ url: sponsors.html
 save_as: sponsors.html
 image1: pisa5.jpg
 image1description: wikimedia credits
-image2: florence5.jpg
+image2: laser1.jpe
 image2description: wikimedia credits
 
 <!-- <div class="valign-wrapper"> -->

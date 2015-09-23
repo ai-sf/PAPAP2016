@@ -9,7 +9,7 @@ url: registration.html
 save_as: registration.html
 image1: pisa4.jpg
 image1description: wikimedia credits
-image2: florence4.jpg
+image2: laser2.jpe
 image2description: wikimedia credits
 
 <div class="section">
