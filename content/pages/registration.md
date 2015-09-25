@@ -16,7 +16,7 @@ image2description: wikimedia credits
   <div class="section">
     <div class="row">
       <div class="col s12">
-	<h4>Registration will open on September 27th</h4>
+	<h4>Registration will open on September 29th</h4>
       </div>
     </div>
   </div>
