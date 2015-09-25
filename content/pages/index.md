@@ -6,7 +6,7 @@ description: The homepage for the Lights of Tuscay Event
 keywords: lights of tuscany iaps aisf 2015 pisa florence
 image1: pisa1.jpg
 image1description: wikimedia credits
-image2: pisa5.jpg
+image2: lungarno2.jpg
 image2description: wikimedia credits
 subtitle: Registrations will open on September 27th
 url: index.html
@@ -46,6 +46,9 @@ save_as: index.html
 </div>
 </div>
 
+  <div class="parallax-container"><img style="width:100%" src="{filename}/images/logo/banner.png"
+			     alt="our official logo"></div>
+  
 <div class="parallax-container valign-wrapper">
   <div class="section no-pad-bot">
     <div class="container">

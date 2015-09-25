@@ -7,7 +7,7 @@ description: Register here for the Lights of Tuscany Event
 keywords: lights of tuscany register fee iaps aisf
 url: registration.html
 save_as: registration.html
-image1: pisa4.jpg
+image1: fiber1.jpg
 image1description: wikimedia credits
 image2: laser2.jpe
 image2description: wikimedia credits

@@ -7,7 +7,7 @@ description: the
 keywords: lights of tuscany guests
 url: guests.html
 save_as: guests.html
-image1: florence2.jpg
+image1: pisa4.jpg
 image1description: wikimedia credits
 image2: LENS-3.jpg
 image2description: wikimedia credits
