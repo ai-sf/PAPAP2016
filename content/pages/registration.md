@@ -26,7 +26,7 @@ image2description: wikimedia credits
       <h4>General info</h4>
       <ul>
 	<li>
-	  <p>In order to enroll to the event you must be an IAPS member. The participation fee is fixed at €100 per person.</p>
+	  <p>In order to enroll to the event you must be an IAPS member. The participation fee is fixed at €110 per person.</p>
 	</li><li>
 	  <p>Because of the strict requirements of some laboratories, the number of participants is set at 40; we expect roughly 2/3 of whom be international.</p>
 	</li><li>
