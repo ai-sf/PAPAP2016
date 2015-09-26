@@ -16,7 +16,7 @@ image2description: wikimedia credits
   <div class="section">
     <div class="row">
       <div class="col s12">
-	<h4>Registration will open on September 29th</h4>
+	<h4>Registration will open on Tuesday, September 29 at 13:30 (CET)</h4>
       </div>
     </div>
   </div>
@@ -55,9 +55,9 @@ image2description: wikimedia credits
       <h4>Deadline for registration and payment</h4>
       <ul>
 	<li>
-	  <p>Registration will close on October, 15th.</p>
+	  <p>Registration will close on Thursday, October 15 at 20:00 (CET).</p>
 	</li><li>
-	  <p>The payment of the participation fee must be made no later than 5 days after the date of registration, otherwise the registration will not be considered effective.</p>
+	  <p>After the end of the registration process we will contact you by email to let you know whether we will be able to offer you a place.</p>
 	</li>
       </ul>
     </div>
@@ -75,13 +75,15 @@ image2description: wikimedia credits
 	  </li><li>
 	  <p>Only students enrolled in a university or similar institution on a physics or physics-related course, as well as up to twelve months after receiving a degree from a university are able to participate in this event. Only students with an age of at least 18 years are allowed to attend the conference.</p>
 	</li><li>
-	  <p>You acknowledge and agree that the organizing committee and the hosts of the event have no responsibility whatsoever for injuries, losses, or damages of any kind that result from your participation inLights of Tuscany 2015.</p>
-	</li><li>
+	  <p>You acknowledge and agree that the organizing committee and the hosts of the event have no responsibility whatsoever for injuries, losses, or damages of any kind that result from your participation in Lights of Tuscany 2015.</p>
+	  </li><li>
+	  <p>You accept the <a class="orange-text" href="files/IAPS_Code_of_Conduct.pdf">IAPS Code of Conduct</a>.</p>
+	  </li><li>
 	  <p>By participating in the event you agree to be filmed, photographed, and otherwise recorded during the conference and hereby expressly grant the organizing committee, AISF and IAPS the right to use your picture, movie or any other form of media publication. You also confirm that the information contained in this application is true and correct.</p>
 	</li><li>
 	  <p>You accept that the organizing committee cannot be made responsible for the content of any talk, poster, workshop, excursion or similar activity.</p>
 	</li><li>
-	  <p>You accept that, in case of cancellation by a participant, the Organising Committee will provide a reimbursement only if a replacement for the student can be found.  No reimbursement will be given for membership fees under any circumstances. If a reimbursement were to be approved, the Organising Committee will retain a total of €10 from the fee as a contribution to the expenses to the event. All decisions about financial aspects of the event will need to be approved by the entire Organising Committee.</p>
+	  <p>You accept that, in case of cancellation by a participant, the Organising Committee will provide a reimbursement only if a replacement for the student can be found. No reimbursement will be given for membership fees under any circumstances. If a reimbursement were to be approved, the Organising Committee will retain a total of €10 from the fee as a contribution to the expenses to the event. All decisions about financial aspects of the event will need to be approved by the entire Organising Committee.</p>
 	</li><li>
 	  <p>The present terms and conditions are governed by the laws of the Italian Republic.</p>
 	</li>
