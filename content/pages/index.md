@@ -4,6 +4,8 @@ Author: Giulio Pasqualetti
 Summary: The homepage for the Lights of Tuscay Event
 description: The homepage for the Lights of Tuscay Event
 keywords: lights of tuscany iaps aisf 2015 pisa florence
+ogtitle: Lights of Tuscany
+ogdescription: Celebrate in Pisa the end of the International Year of Light
 image1: pisa1.jpg
 image1description: wikimedia credits
 image2: lungarno2.jpg
