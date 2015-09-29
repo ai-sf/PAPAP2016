@@ -8,7 +8,7 @@ image1: pisa1.jpg
 image1description: wikimedia credits
 image2: lungarno2.jpg
 image2description: wikimedia credits
-subtitle: Registrations open on Tuesday, September 29
+subtitle: Registrations are open
 url: index.html
 save_as: index.html
 

@@ -16,7 +16,7 @@ image2description: wikimedia credits
   <div class="section">
     <div class="row">
       <div class="col s12">
-	<h4>Registration will open on Tuesday, September 29 at 13:30 (CET)</h4>
+	<h4>Registrations are open</h4>
       </div>
     </div>
   </div>
@@ -32,7 +32,7 @@ image2description: wikimedia credits
 	</li><li>
 	  <p>The participation fee includes: accommodation, lunches, dinners, coffee breaks, public transports, gadgets. Lunch and dinner on Sunday are not included.</p>
 	</li><li>
-	  <p>Visit of the Uffizi Gallery: on Sunday we have scheduled a free day in Florence. If you want, we can book in advance the tickets for the Uffizi gallery, so you will not have to suffer the long queue. The additional cost is € 12,50.</p>
+	  <p>Visit of the Uffizi Gallery: on Sunday we have scheduled a free day in Florence. If you want, we can book in advance the tickets for the Uffizi gallery, so you will not have to suffer the long queue. The additional cost is € 12.</p>
 	</li><li>
 	  <p>NEST or SSSUP: on Monday we will split in two groups and visit simultaneously and indipendently the NEST and SSSUP facilities. As a consequence, you have to choose between one of them.</p>
 	  </li>
@@ -41,21 +41,22 @@ image2description: wikimedia credits
     </div>
   </div>
 </div>
-<!-- <div class="section"> -->
-<!-- 	<div class="row"> -->
-<!-- 	  <div class="col s12"> -->
-<!-- 	    <h4>Modulo di registrazione</h4> -->
-<!-- 	    <\!--<div class="left"><script type="text/javascript" src="http://form.jotformeu.com/jsform/50723723998365"></script></div>-\-> -->
-<!-- 	  </div> -->
-<!-- 	</div> -->
-<!-- </div> -->
+<div class="section">
+	<div class="row">
+	  <div class="col s12">
+	    <h4>Registration form</h4>
+	     <iframe id="JotFormIFrame" onload="window.parent.scrollTo(0,0)" allowtransparency="true" src="https://secure.jotformpro.com/form/52684078386973" frameborder="0" style="width:100%; height:514px; border:none;" scrolling="yes"> </iframe> <script type="text/javascript"> window.handleIFrameMessage = function(e) { var args = e.data.split(":"); var iframe = document.getElementById("JotFormIFrame"); if (!iframe) return; switch (args[0]) { case "scrollIntoView": iframe.scrollIntoView(); break; case "setHeight": iframe.style.height = args[1] + "px"; break; case "collapseErrorPage": if (iframe.clientHeight > window.innerHeight) { iframe.style.height = window.innerHeight + "px"; } break; case "reloadPage": window.location.reload(); break; } }; if (window.addEventListener) { window.addEventListener("message", handleIFrameMessage, false); } else if (window.attachEvent) { window.attachEvent("onmessage", handleIFrameMessage); } </script>
+	  </div>
+	</div>
+</div>
+
 <div class="section">
   <div class="row">
     <div class="col s12">
       <h4>Deadline for registration and payment</h4>
       <ul>
 	<li>
-	  <p>Registration will close on Thursday, October 15 at 20:00 (CET).</p>
+	  <p>Registration will close on Thursday, October 15 at 20:00 (CST).</p>
 	</li><li>
 	  <p>After the end of the registration process we will contact you by email to let you know whether we will be able to offer you a place.</p>
 	</li>
@@ -64,7 +65,7 @@ image2description: wikimedia credits
   </div>
 </div>
 
-<div class="section">
+<div id="terms-and-conditions" class="section">
   <div class="row">
     <div class="col s12">
       <h4>Terms and conditions</h4>
