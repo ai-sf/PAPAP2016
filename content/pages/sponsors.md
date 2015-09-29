@@ -19,8 +19,8 @@ image2description: wikimedia credits
 <div class="section">
   <p>Lights of Tuscany is organized by the Associazione Italiana Studenti di Fisica (AISF) for all the members of the International Association of Physics Students (IAPS) thanks to the sponsorship and the support of some universities, research centres, public and private authorities. Among them:</p>
   <ul class="collection">
-    <li class="collection-item">International Association of Physics Students</li>
     <li class="collection-item">European Physical Society</li>
+    <li class="collection-item">International Association of Physics Students</li>
     <li class="collection-item">Università di Pisa</li>
 	<li class="collection-item">Physics Department of the University of Pisa</li>
     <li class="collection-item">LENS</li>

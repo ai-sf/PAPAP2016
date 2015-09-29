@@ -17,7 +17,7 @@ save_as: index.html
   <div class="row">
     <div class="col s12 m4">
       <div class="icon-block">
-        <h2 class="center orange-text"><i class="mdi-action-account-child"></i></h2>
+        <h2 class="center orange-text"> <i class="mdi-action-account-child"></i></h2>
         <h5 class="center">Who</h5>
         <p class="light">About 40 physics students from all levels
           of study are expected to participate, 2/3 of whom
@@ -26,7 +26,7 @@ save_as: index.html
     </div> 
     <div class="col s12 m4">
       <div class="icon-block">
-        <h2 class="center orange-text"><i class="mdi-action-event"></i></h2>
+        <h2 class="center orange-text"> <i class="mdi-action-event"></i></h2>
         <h5 class="center">When</h5>
         <p class="light">In December 2015, from Thursday 17th to
           Monday 21st.</p>
@@ -34,7 +34,7 @@ save_as: index.html
     </div>
     <div class="col s12 m4">
       <div class="icon-block">
-        <h2 class="center orange-text"><i class="mdi-action-room"></i></h2>
+        <h2 class="center orange-text"> <i class="mdi-action-room"></i></h2>
         <h5 class="center">Where</h5>
         <p class="light">In Tuscany. Arrival, accommodation and
           departure are expected to be in Pisa. A couple of days
@@ -46,8 +46,7 @@ save_as: index.html
 </div>
 </div>
 
-  <div class="parallax-container"><img style="width:100%" src="{filename}/images/logo/banner.png"
-			     alt="our official logo"></div>
+<div class="parallax-container"><img style="width:100%" src="{filename}/images/logo/banner.png" alt="our official logo"></div>
   
 <div class="parallax-container valign-wrapper">
   <div class="section no-pad-bot">
@@ -76,5 +75,4 @@ save_as: index.html
       </div>
     </div>
   </div>
-</div>
-</div>
+
