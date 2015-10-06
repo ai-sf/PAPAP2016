@@ -16,204 +16,150 @@ image2description: wikimedia credits
   <div class="row">
     <div class="col s12">
       <h4>Guest speakers</h4>
-      <p class="align-left">We are happy to host professors, accademics and other prominent figures working with light and light-based technologies. Their profiles will be posted here as soon as possible.</p>
+      <p class="align-left">We are happy to host professors,
+	accademics and other prominent figures working with light and
+	light-based technologies. Here you can find the profiles of some
+	of them (constantly updated).</p>
     </div>
   </div>
 </div>
-<!--   <div class="row"> -->
-<!--     <div id="giubellino" class="card medium col s12 m6"> -->
-<!--       <div class="card-image waves-effect waves-block waves-light"> -->
-<!--         <img class="activator" alt="Paolo Giubellino" src="{filename}/images/giubellino2.jpg"> -->
-<!--       </div> -->
-<!--       <div class="card-content"> -->
-<!--         <span class="card-title activator grey-text text-darken-4">Paolo Giubellino <i class="mdi-navigation-more-vert right"></i></span> -->
-<!-- 	<p>Responsabile dell'esperimento ALICE al Large Hadron Collider del CERN</p> -->
-<!--       </div> -->
-<!--       <div class="card-reveal"> -->
-<!--         <span class="card-title grey-text text-darken-4">Paolo Giubellino <i class="mdi-navigation-close right"></i></span> -->
-<!--         <p>Nato a Torino nel Novembre 1960, ottiene la laurea in -->
-<!-- 	  fisica presso l’Università di Torino nel 1983. Dopo esperienze di -->
-<!-- 	  lavoro negli Stati Uniti e in Svizzera, è rientrato in Italia dove -->
-<!-- 	  lavora dalla metà degli anni 80. E’ attualmente dirigente di ricerca -->
-<!-- 	  presso la sede di Torino dell’Istituto Nazionale di Fisica Nucleare -->
-<!-- 	  (INFN). Da molti anni si occupa di esperimenti di fisica nucleare -->
-<!-- 	  delle altre energie, condotti soprattutto al CERN. E’ stato fra i -->
-<!-- 	  fondatori dell’esperimento ALICE, nel 1989. Nel marzo 2010 è stato -->
-<!-- 	  eletto responsabile dell’esperimento, che conta oltre 1000 fisici di -->
-<!-- 	  115 istituti di ricerca di 34 nazioni. </p> -->
-	
-<!-- 	<p>Si è dedicato allo sviluppo di tecnologie per la rivelazione di -->
-<!-- 	  particelle elementari, soprattutto in funzione dei suoi esperimenti in -->
-<!-- 	  fisica fondamentale ma anche per applicazioni in medicina. Fa parte, -->
-<!-- 	  dal 2000, dell’Instrumentation Panel dell’ICFA, l’organizzazione che -->
-<!-- 	  raggruppa a livello mondiale i laboratori di fisica delle Alte -->
-<!-- 	  Energie. Ricopre numerose cariche di coordinamento e valutazione della -->
-<!-- 	  ricerca in diversi paesi: presiede il comitato che valuta gli -->
-<!-- 	  esperimenti presso il GSI in Germania, ed è membro del Comitato -->
-<!-- 	  Scientifico dell’IN2P3 in Francia, l’organo del CNRS che raggruppa le -->
-<!-- 	  ricerche in fisica nucleare e subnucleare.</p> -->
-	
-<!-- 	<p>Ha coordinato numerose iniziative di cooperazione internazionale, -->
-<!-- 	  specie con i paesi dell’America Latina. Nel 2000 ha ricevuto il titolo -->
-<!-- 	  di Dottore in Fisica e Matematica presso il Dubna Academic Council, -->
-<!-- 	  Russia. E’ stato insignito nel 2001 del titolo di “Profesor Invitado” -->
-<!-- 	  dall’Università di La Havana, Cuba, nel 2002 della Medaglia della -->
-<!-- 	  Accademia delle Scienze dell’Ucraina e nel 2010 della Medaglia della -->
-<!-- 	  Divisione di Campi e Particelle della Società Messicana di Fisica.</p> -->
-	
-<!-- 	<p>Nel 2014 è stato il primo italiano a vincere il premio Lize Meitner -->
-<!-- 	  per la fisica nucleare.</p> -->
-<!--       </div> -->
-<!--     </div> -->
-
-<!--    <\!--  <div id="inguscio" class="card medium col s12 m6"> -\-> -->
-<!--   <\!--     <div class="card-image waves-effect waves-block waves-light"> -\-> -->
-<!--   <\!--       <img class="activator" alt="Massimo Inguscio" src="{filename}/images/inguscio2.jpg"> -\-> -->
-<!--   <\!--     </div> -\-> -->
-<!--   <\!--     <div class="card-content"> -\-> -->
-<!--   <\!--       <span class="card-title activator grey-text text-darken-4">Massimo Inguscio <i class="mdi-navigation-more-vert right"></i></span> -\-> -->
-<!--   <\!-- 	<p>presidente dell'Istituto Nazionale di Ricerca Metrologica (INRIM)</p> -\-> -->
-<!--   <\!--     </div> -\-> -->
-<!--   <\!--     <div class="card-reveal"> -\-> -->
-<!--   <\!--       <span class="card-title grey-text text-darken-4">Massimo Inguscio <i class="mdi-navigation-close right"></i></span> -\-> -->
-<!--   <\!-- 	<p>Massimo Inguscio, studente della Scuola Normale -\-> -->
-<!--   <\!-- 	  Superiore, si laurea in Fisica a Pisa nel 1972. Riceve -\-> -->
-<!--   <\!-- 	  quindi il Diploma di Perfezionamento in Fisica (PhD) -\-> -->
-<!--   <\!-- 	  presso la Scuola Normale nel 1976. È professore -\-> -->
-<!--   <\!-- 	  ordinario di Fisica della Materia dal 1986, prima -\-> -->
-<!--   <\!-- 	  presso l’Università Federico II di Napoli e dal 1991 -\-> -->
-<!--   <\!-- 	  presso la Facoltà di Scienze MFN dell’Università di -\-> -->
-<!--   <\!-- 	  Firenze. </p> -\-> -->
-
-<!--   <\!-- 	<p>Dal dicembre 2012 al 14 gennaio 2014 è stato -\-> -->
-<!--   <\!-- 	  Direttore del Dipartimento Scienze Fisiche e -\-> -->
-<!--   <\!-- 	  Tecnologie della Materia del CNR. Dal 15 gennaio 2014 -\-> -->
-<!--   <\!-- 	  è Presidente dell’Istituto Nazionale di Ricerca -\-> -->
-<!--   <\!-- 	  Metrologica (INRIM). </p> -\-> -->
-
-<!--   <\!-- 	<p>Massimo Inguscio è socio dell'Accademia Nazionale dei -\-> -->
-<!--   <\!-- 	  Lincei, socio non residente dell’Istituto Lombardo -\-> -->
-<!--   <\!-- 	  (Accademia di Scienze e Lettere) di Milano, socio -\-> -->
-<!--   <\!-- 	  dell’ Accademia Pontaniana di Napoli, membro della -\-> -->
-<!--   <\!-- 	  Academia Europaea, nonché fellow della Optical Society -\-> -->
-<!--   <\!-- 	  of America (OSA), della American Physical Society -\-> -->
-<!--   <\!-- 	  (APS) e della European Optical Society (EOS). </p> -\-> -->
-
-<!--   <\!-- 	<p>L’attività di ricerca ha carattere prevalentemente -\-> -->
-<!--   <\!-- 	  sperimentale, riguarda l’interazione tra luce laser e -\-> -->
-<!--   <\!-- 	  materia e ottica quantistica. Grande risonanza hanno -\-> -->
-<!--   <\!-- 	  avuto la prima condensazione di Bose-Einstein (BEC) -\-> -->
-<!--   <\!-- 	  italiana con atomi di rubidio e l’invenzione, nel -\-> -->
-<!--   <\!-- 	  2001, della nuova tecnica di raffreddamento -\-> -->
-<!--   <\!-- 	  simpatetico di gas atomici utilizzando miscele di -\-> -->
-<!--   <\!-- 	  rubidio e potassio. Il raffreddamento simpatetico apre -\-> -->
-<!--   <\!-- 	  scenari sempre più vasti: utilizzando gas di -\-> -->
-<!--   <\!-- 	  potassio-39 il gruppo di Massimo Inguscio ha creato -\-> -->
-<!--   <\!-- 	  una BEC ideale, in cui si possono manipolare le -\-> -->
-<!--   <\!-- 	  collisioni tra gli atomi sino ad azzerarne gli effetti -\-> -->
-<!--   <\!-- 	  e la ha subito utilizzata per la prima dimostrazione -\-> -->
-<!--   <\!-- 	  sperimentale diretta della “localizzazione di -\-> -->
-<!--   <\!-- 	  Anderson”.</p> -\-> -->
-
-<!--   <\!-- 	<p><a href="http://www.inrim.it/gen/doc/curricula/CV_MInguscio.pdf">curriculum completo</a></p> -\-> -->
-<!--   <\!--     </div> -\-> -->
-<!--   <\!--   </div> -\-> -->
-<!--   <\!-- </div> -\-> -->
+<div class="row">
+  <div id="cella" class="card medium col s12 m6">
+    <div class="card-image waves-effect waves-block waves-light">
+      <img class="activator" alt="Giancarlo Cella" src="{filename}/images/cella3.png">
+      </div>
+      <div class="card-content">
+        <span class="card-title activator grey-text text-darken-4">Giancarlo Cella <i class="mdi-navigation-more-vert right"></i></span>
+	<p>Researcher for the VIRGO collaboration</p>
+      </div>
+      <div class="card-reveal">
+        <span class="card-title grey-text text-darken-4">Giancarlo Cella <i class="mdi-navigation-close right"></i></span>
+	<p>Giancarlo Cella is a physicist, researcher at the INFN
+sez. Pisa. He started his career working on perturbative QCD and
+lattice gauge theory. He is currently involved in the VIRGO
+collaboration, an experiment aiming to the direct observation of
+gravitational waves. He is interested mainly in phenomenology and
+detection of stochastic background of gravitational waves,
+gravitational wave data analysis and advanced detectors.</p>
+	<p><a href="http://www.df.unipi.it/~cella/">more information</a></p>
+      </div>
+  </div>
+    <div id="inguscio" class="card medium col s12 m6">
+      <div class="card-image waves-effect waves-block waves-light">
+        <img class="activator" alt="Massimo Inguscio" src="{filename}/images/inguscio2.jpg">
+      </div>
+      <div class="card-content">
+        <span class="card-title activator grey-text text-darken-4">Massimo Inguscio <i class="mdi-navigation-more-vert right"></i></span>
+  	<p>President of the Italian National Institute for Metrological Research (INRIM)</p>
+      </div>
+      <div class="card-reveal">
+        <span class="card-title grey-text text-darken-4">Massimo Inguscio <i class="mdi-navigation-close right"></i></span>
+	<p>Massimo Inguscio graduated in physics from the University
+	  of Pisa in 1972 and received his PhD from the Scuola Normale
+	  Superiore of Pisa in 1976. </p>
+	<p>A full Professor of Optics, Atomic Physics and Structure of
+Matter at the University of Naples (from 1986) and at the University
+of Florence (from 1991), he is co-founder of LENS, the European
+Laboratory for Nonlinear Spectroscopy, which he led as Director for 6
+years (1998-2004).  He was also Director of the Department for
+Material and Devices (2009-2012) and of the Department for Sciences
+and Technologies of Matter (2012-2014) of the CNR, the Italian
+National Research Council.</p>
+	  <p>In 2014 Massimo Inguscio has been appointed President of
+the Italian National Institute for Metrological Research (INRIM). He
+is Fellow of the Accademia dei Lincei, the American Physical Society
+and the European Optical Society.  For the European Research Council
+(ERC) he was Chairman (2007-2010) and Member (2012 and 2014) of the
+Scientific Panel PE2 “Fundamental Constituents of Matter”. He received
+prizes, such as the Humboldt Research Award by the Humboldt Foundation
+(2004), the Grand Prix of the French Academy of Sciences (2005) and
+the “Herbert Walther” Award (2014) of the Deutsche Physikalische
+Gesellschaft and of the Optical Society.</p>
+  	<p><a href="https://sites.google.com/a/lens.unifi.it/inguscio/home">more information</a></p>
+      </div>
+    </div>
+  </div>
   
-<!--   <div class="row"> -->
-<!--     <\!-- <div id="passarino" class="card medium col s12 m6"> -\-> -->
-<!--     <\!--   <div class="card-image waves-effect waves-block waves-light"> -\-> -->
-<!--     <\!--     <img class="activator" alt="Giampiero Passarino" src="{filename}/images/passarino1.jpg"> -\-> -->
-<!--     <\!--   </div> -\-> -->
-<!--     <\!--   <div class="card-content"> -\-> -->
-<!--     <\!--     <span class="card-title activator grey-text text-darken-4">Giampiero Passarino <i class="mdi-navigation-more-vert right"></i></span> -\-> -->
-<!--     <\!--     <p>Professore ordinario di fisica teorica all'Università di Torino e fondatore di Higgs Cross Section Working Group</p> -\-> -->
-<!--     <\!--   </div> -\-> -->
-<!--     <\!--   <div class="card-reveal"> -\-> -->
-<!--     <\!--     <span class="card-title grey-text text-darken-4">Giampiero Passarino <i class="mdi-navigation-close right"></i></span> -\-> -->
-<!--     <\!-- 	<p>Laureatosi in Fisica Teorica presso l’Università degli Studi di Torino con -\-> -->
-<!--     <\!-- 	  una tesi sulla rinormalizzazione, ha lavorato come ricercatore presso -\-> -->
-<!--     <\!-- 	  l’Institute for Theoretical Physics in Utrecht sotto la supervisione di -\-> -->
-<!--     <\!-- 	  Martinus Veltman. È stato visiting scientist all’Università del Michigan -\-> -->
-<!--     <\!-- 	  e fellow presso SLAC a Stanford.</p> -\-> -->
-
-<!--     <\!-- 	<p>Attualmente è professore ordinario di Fisica Teorica presso l’Università -\-> -->
-<!--     <\!-- 	  di Torino, dove tiene i corsi di Teoria dei Campi e Metodi Matematici per -\-> -->
-<!--     <\!-- 	  la Fisica.</p> -\-> -->
-
-<!--     <\!-- 	<p>Collabora con la sezione teorica del CERN, è vice-coordinatore della Marie -\-> -->
-<!--     <\!-- 	  Curie training network “HiggsTools”, comprendente numerosi studenti e -\-> -->
-<!--     <\!-- 	  ricercatori in tutto il mondo.</p> -\-> -->
-
-<!--     <\!-- 	<p>La sua ricerca è dedicata allo studio di problemi formali della teoria dei -\-> -->
-<!--     <\!-- 	  campi, in particolare legati alla rinormalizzazione. È l’inventore, con -\-> -->
-<!--     <\!-- 	  M.Veltman, della Passarino-Veltman reduction, ormai divenuta tecnica -\-> -->
-<!--     <\!-- 	  standard nel calcolo di integrali di loop in QFT, ed esposta in un articolo -\-> -->
-<!--     <\!-- 	  con oltre mille ottocento citazioni. È autore, insieme a Dima Bardin, del -\-> -->
-<!--     <\!-- 	  libro “The Standard Model in the Making”, testo di riferimento per lo -\-> -->
-<!--     <\!-- 	  studio della rinormalizzazione del Modello Standard.</p> -\-> -->
-
-<!--     <\!-- 	<p>Si occupa di aspetti teorici della fenomenologia del bosone di Higgs, di -\-> -->
-<!--     <\!-- 	  correzioni elettrodeboli ai processi di produzione e allo studio di metodi -\-> -->
-<!--     <\!-- 	  per la determinazione dell’ampiezza di decadimento. È autore di numerosi -\-> -->
-<!--     <\!-- 	  reports per LEP e LHC, è fondatore dell’LHC Higgs Cross Section Working -\-> -->
-<!--     <\!-- 	  Group, che ha diretto per due mandati, e coautore del Handbook of LHC Higgs -\-> -->
-<!--     <\!-- 	  cross sections.</p> -\-> -->
-<!--     <\!-- 	<p><a href="http://www.to.infn.it/~giampier">ulteriori informazioni</a></p> -\-> -->
-<!--     <\!--   </div> -\-> -->
-<!--   <\!--   <\\!-- </div> -\\-> -\-> -->
-<!--   <\!--   <div id="rasetti" class="card medium col s12 m6"> -\-> -->
-<!--   <\!--     <div class="card-image waves-effect waves-block waves-light"> -\-> -->
-<!--   <\!-- 	<img class="activator" alt="Mario Rasetti" src="{filename}/images/rasetti5.png"> -\-> -->
-<!--   <\!--     </div> -\-> -->
-<!--   <\!--     <div class="card-content"> -\-> -->
-<!--   <\!-- 	<span class="card-title activator grey-text text-darken-4">Mario Rasetti <i class="mdi-navigation-more-vert right"></i></span> -\-> -->
-<!--   <\!-- 	<p>Presidente dell'ISI Foundation e massimo esperto di scienze della complessità</p> -\-> -->
-<!--   <\!--     </div> -\-> -->
-<!--   <\!--     <div class="card-reveal"> -\-> -->
-<!--   <\!--       <span class="card-title grey-text text-darken-4">Mario Rasetti <i class="mdi-navigation-close right"></i></span> -\-> -->
-<!--   <\!-- 	<p>Laureatosi presso il Politecnico di -\-> -->
-<!--   <\!-- 	  Torino in Ingegneria Nucleare ed in -\-> -->
-<!--   <\!-- 	  Matematica, ha ottenuto il Dottorato di -\-> -->
-<!--   <\!-- 	  Ricerca in Fisica Teorica all’Università -\-> -->
-<!--   <\!-- 	  di Göteborg (Svezia).</p> -\-> -->
-
-<!--   <\!-- 	<p>È professore ordinario di Fisica Teorica presso il Politecnico di -\-> -->
-<!--   <\!-- 	  Torino e direttore della Scuola di Dottorato dell’Ateneo. È membro di -\-> -->
-<!--   <\!-- 	  numerose organizzazioni scientifiche internazionali, quali l’Insitute -\-> -->
-<!--   <\!-- 	  of Advanced Studies in Princeton e Center for Non-linear Studies in -\-> -->
-<!--   <\!-- 	  Los Alamos.</p> -\-> -->
-
-<!--   <\!-- 	<p>Dal 2007 è presidente della Fondazione ISI (Institute for -\-> -->
-<!--   <\!-- 	  Scientific Interchange) che conta più di 250 ricercatori -\-> -->
-<!--   <\!-- 	  internazionali impegnati nello studio dei sistemi complessi.</p> -\-> -->
-
-<!--   <\!-- 	<p>I suoi più recenti contributi hanno riguardato: la formulazione di -\-> -->
-<!--   <\!-- 	  una teoria quantistica dei vortici; la soluzione esatta di una -\-> -->
-<!--   <\!-- 	  vasta classe di modelli di spin (Ising-like) in meccanica -\-> -->
-<!--   <\!-- 	  statistica; la descrizione teorica della transizione di -\-> -->
-<!--   <\!-- 	  superconduttività come rottura di una super-simmetria globale; -\-> -->
-<!--   <\!-- 	  la costruzione teorica di una nuova struttura cristallografica -\-> -->
-<!--   <\!-- 	  non-euclideo come generalizzazione del grafene e del -\-> -->
-<!--   <\!-- 	  fullerene; applicazioni dell’algoritmo di Shor in computazione -\-> -->
-<!--   <\!-- 	  quantistica; la costruzione di stati decoherence-free e il nuovo -\-> -->
-<!--   <\!-- 	  schema Spin Network Quantum Simulator in computazione -\-> -->
-<!--   <\!-- 	  quantistica; identificazione di regimi caotici in sistemi dinamici -\-> -->
-<!--   <\!-- 	  non lineari o topologici; l’applicazione dei sistemi spin-network -\-> -->
-<!--   <\!-- 	  alle teorie del linguaggio; l’identificazione dell’algebra dinamica -\-> -->
-<!--   <\!-- 	  della giunzioni Josephson; riformulazione del modello BCS in -\-> -->
-<!--   <\!-- 	  termini di superalgebre; quantizzazione di sistemi dinamici in -\-> -->
-<!--   <\!-- 	  spazi non differenziabili e realizzazione dell’algebra di Virasoro -\-> -->
-<!--   <\!-- 	  a singolo bosone; quantizzazione di solitoni in poliacetilene e -\-> -->
-<!--   <\!-- 	  studio di effetti quantisitici in life sciences.</p> -\-> -->
-
-<!--   <\!-- 	<p><a href="http://www.ottolenghi.unito.it/attachments/014_CV-Mario%20Rasetti.pdf">curriculum completo</a></p> -\-> -->
-
-<!--   <\!--     </div> -\-> -->
-<!--   <\!--   </div> -\-> -->
-<!--   <\!-- </div -\->> -->
-<!--   </div> -->
-<!--   </div> -->
+  <div class="row">
+    <div id="dilieto" class="card medium col s12 m6">
+      <div class="card-image waves-effect waves-block waves-light">
+        <img class="activator" id="fotodilieto" alt="Alberto Di Lieto" src="{filename}/images/dilieto1.png">
+      </div>
+      <div class="card-content">
+        <span class="card-title activator grey-text text-darken-4">Alberto Di Lieto <i class="mdi-navigation-more-vert right"></i></span>
+        <p>Associate Professor of Applied Physics</p>
+      </div>
+      <div class="card-reveal">
+        <span class="card-title grey-text text-darken-4">Alberto Di Lieto <i class="mdi-navigation-close right"></i></span>
+	<p>Alberto Di Lieto is an Associate Professor at the
+	Department of Physics in Pisa. He taught various courses at
+	the University of Pisa, Siena and the „Scuola Normale
+	Superiore“; he is currently teaching the lab course „Digital
+	Technologies“.</p>
+	<p>His principal researching interests comprehends: Molecular
+	and Laser Spectroscopy; High resolution in the Infrared, far
+	Infrared and millimeter’s wave; Development of laser tunable
+	sources and high sensible acoustic detectors; Development of
+	new solid state laser sources; Rare Earth elements ions’
+	spectroscopy in crystalline matrices; Development of specific
+	optic instrumentation for the project of research of
+	Gravitational Waves at VIRGO; Didactic of Physics; Applied
+	Physics (new instrumentation).</p>
+    	<p><a href="http://www.df.unipi.it/~dilieto/">more information</a></p>
+      </div>
+    </div>
+    <div id="macchi" class="card medium col s12 m6">
+      <div class="card-image waves-effect waves-block waves-light">
+  	<img class="activator" alt="Andrea Macchi" src="{filename}/images/macchi.jpg">
+      </div>
+      <div class="card-content">
+  	<span class="card-title activator grey-text text-darken-4">Andrea Macchi <i class="mdi-navigation-more-vert right"></i></span>
+  	<p>Research Scientist in Plasma Physics</p>
+      </div>
+      <div class="card-reveal">
+        <span class="card-title grey-text text-darken-4">Andrea Macchi <i class="mdi-navigation-close right"></i></span>
+	<p>Andrea Macchi received a M.Sc. degree (Laurea) in Physics
+	  from the University of Pisa in 1995 with honors (110/110 cum laude)
+	  and a Ph.D. degree in Physics from the Scuola Normale Superiore of
+	  Pisa in 1999 with honors (70/70 cum laude).</p>
+	<p>Andrea Macchi has been active in laser-matter interaction at very
+high intensities, beginning as an experimentalist (mostly working on
+	  X-ray emission from laser-produced plasmas) and later focusing on
+	  theory and simulation, still in close contact with experimental
+	  work. He has given contributions on topics such as collisionless
+	  absorption, surface wave excitation, ion acceleration, nonlinear
+	  coherent structures. </p>
+	<p>A.M. is a staff research scientist with CNR/INO since
+	  2010. Previously he was with CNR/INFM (2003-2009). He held a
+	  postdoctoral position at the Darmstadt University of Technology
+	  (1998-2000) and an International Fellowship at the Queen's University
+	  of Belfast (2008). He participated to many collaborative European and
+	  Italian projects, also as principal investigator or local coordinator
+	  since 2005.</p>
+	<p> A.M. is the author or coauthor of about 70 publications on
+	  peer reviewed journals (with a H-index of 24 to date) including a
+	  Review of Modern Physics and 11 Physical Review Letters, the single
+	  author of a textbook on Laser-Plasma Interactions (Springer, 2013) and
+	  the first author of a textbook with 100 problems of Classical
+	  Electromagnetism (in Italian). He presented tens of seminars and talks
+	  (both invited and contributed) to international conferences and
+	  schools. He has been serving as a referee for about 30 international
+	  journals (with recognition as outstanding referee for the American
+	  Physical Society in 2015) and for 6 funding and evaluation agencies of
+	  different countries.</p>
+	<p>A.M. collaborates since 2002 to teaching activities at the
+	  Physics Department of the University of Pisa for the undergraduate
+	  (B.Sc.), postgraduate (M.Sc.) and doctorate (Ph.D.)  programs. He
+	  gives lecture courses of Plasma Physics since 2009 and is Lecturer of
+	  Classical Electrodynamics since 2012. He has been the supervisor of 2
+	  Ph.D., 11 postgraduate (M.Sc.) and 17 undergraduate (B.Sc.) students
+	  to date, with 3 more Ph.D. (co-)supervisions running.</p>
+  	<p><a href="http://www.df.unipi.it/~macchi/">more information</a></p>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
 <!-- <\!-- <div class="section">  -\-> -->
 <!-- <\!--   <div class="row"> -\-> -->
 <!-- <\!--     <div class="col s12"> -\-> -->
