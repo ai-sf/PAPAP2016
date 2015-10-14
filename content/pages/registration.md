@@ -56,7 +56,7 @@ image2description: wikimedia credits
       <h4>Deadline for registration and payment</h4>
       <ul>
 	<li>
-	  <p>Registration will close on Thursday, October 15 at 20:00 (CET).</p>
+	  <p>Registration will close on Thursday, October 15 at 20:00 (CEST).</p>
 	</li><li>
 	  <p>After the end of the registration process we will contact you by email to let you know whether we will be able to offer you a place.</p>
 	</li>
