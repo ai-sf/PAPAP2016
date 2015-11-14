@@ -10,7 +10,7 @@ image1: pisa1.jpg
 image1description: wikimedia credits
 image2: lungarno2.jpg
 image2description: wikimedia credits
-subtitle: Registrations are open
+subtitle: Registrations are now closed
 url: index.html
 save_as: index.html
 

@@ -16,7 +16,8 @@ image2description: wikimedia credits
   <div class="section">
     <div class="row">
       <div class="col s12">
-	<h4>Registrations are open</h4>
+	<h4>October, 15: Registrations are now closed. Thank you!</h4>
+	<p>We will soon contact the participants by email</p>
       </div>
     </div>
   </div>
@@ -41,14 +42,14 @@ image2description: wikimedia credits
     </div>
   </div>
 </div>
-<div class="section">
-	<div class="row">
-	  <div class="col s12">
-	    <h4>Registration form</h4>
-	     <iframe id="JotFormIFrame" onload="window.parent.scrollTo(0,0)" allowtransparency="true" src="https://secure.jotformpro.com/form/52684078386973" frameborder="0" style="width:100%; height:514px; border:none;" scrolling="yes"> </iframe> <script type="text/javascript"> window.handleIFrameMessage = function(e) { var args = e.data.split(":"); var iframe = document.getElementById("JotFormIFrame"); if (!iframe) return; switch (args[0]) { case "scrollIntoView": iframe.scrollIntoView(); break; case "setHeight": iframe.style.height = args[1] + "px"; break; case "collapseErrorPage": if (iframe.clientHeight > window.innerHeight) { iframe.style.height = window.innerHeight + "px"; } break; case "reloadPage": window.location.reload(); break; } }; if (window.addEventListener) { window.addEventListener("message", handleIFrameMessage, false); } else if (window.attachEvent) { window.attachEvent("onmessage", handleIFrameMessage); } </script>
-	  </div>
-	</div>
-</div>
+<!-- <div class="section"> -->
+<!-- 	<div class="row"> -->
+<!-- 	  <div class="col s12"> -->
+<!-- 	    <h4>Registration form</h4> -->
+<!-- 	     <iframe id="JotFormIFrame" onload="window.parent.scrollTo(0,0)" allowtransparency="true" src="https://secure.jotformpro.com/form/52684078386973" frameborder="0" style="width:100%; height:514px; border:none;" scrolling="yes"> </iframe> <script type="text/javascript"> window.handleIFrameMessage = function(e) { var args = e.data.split(":"); var iframe = document.getElementById("JotFormIFrame"); if (!iframe) return; switch (args[0]) { case "scrollIntoView": iframe.scrollIntoView(); break; case "setHeight": iframe.style.height = args[1] + "px"; break; case "collapseErrorPage": if (iframe.clientHeight > window.innerHeight) { iframe.style.height = window.innerHeight + "px"; } break; case "reloadPage": window.location.reload(); break; } }; if (window.addEventListener) { window.addEventListener("message", handleIFrameMessage, false); } else if (window.attachEvent) { window.attachEvent("onmessage", handleIFrameMessage); } </script> -->
+<!-- 	  </div> -->
+<!-- 	</div> -->
+<!-- </div> -->
 
 <div class="section">
   <div class="row">
