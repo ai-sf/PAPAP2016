@@ -17,7 +17,8 @@ image2description: wikimedia credits
     <div class="row">
       <div class="col s12">
 	<h4>October, 15: Registrations are now closed. Thank you!</h4>
-	<p>We will soon contact the participants by email</p>
+	<p><span style="text-decoration: line-through;" >We will soon contact the participants by email.</span></p>
+	<p>November, 10: Finish of the registration process: participants have been selected.</p>
       </div>
     </div>
   </div>
