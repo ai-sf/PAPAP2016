@@ -12,22 +12,24 @@ image1description: wikimedia credits
 image2: laser1.jpe
 image2description: wikimedia credits
 
-<!-- <div class="valign-wrapper"> -->
-<!--   <img id="sponsor-logo" class="valign materialboxed" alt="logo con gli Sponsor" src="{filename}/images/sponsor.png"> -->
-<!-- </div> -->
+<div class="valign-wrapper"> 
+<img id="sponsor-logo" class="valign materialboxed" alt="logo con gli Sponsor" src="{filename}/images/sponsors/sponsors.png"> 
+</div> 
 <br>
 <div class="section">
   <p>Lights of Tuscany is organized by the Associazione Italiana Studenti di Fisica (AISF) for all the members of the International Association of Physics Students (IAPS) thanks to the sponsorship and the support of some universities, research centres, public and private authorities. Among them:</p>
   <ul class="collection">
-    <li class="collection-item">European Physical Society</li>
+    <li class="collection-item">European Project LIGHT2015</li>
     <li class="collection-item">International Association of Physics Students</li>
     <li class="collection-item">Università di Pisa</li>
-	<li class="collection-item">Physics Department of the University of Pisa</li>
+    <li class="collection-item">Physics Department of the University of Pisa</li>
     <li class="collection-item">LENS</li>
+    <li class="collection-item">NEST and Scuola Normale Superiore</li>
+    <li class="collection-item">TeCIP Institute of Scuola Superiore Sant'Anna</li>
     <li class="collection-item">VIRGO</li>
-    <li class="collection-item">NEST</li>
-    <li class="collection-item">Scuola Normale Superiore</li>
-	<li class="collection-item">DSU Toscana</li>
+    <li class="collection-item">Comune di Pisa</li>
+    <li class="collection-item">Provincia di Pisa</li>
+    <li class="collection-item">DSU Toscana</li>
   </ul>
 </div>
 <div class="section">
