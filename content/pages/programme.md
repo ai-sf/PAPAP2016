@@ -154,6 +154,7 @@ image2description: wikimedia credits
       </div>
     </div>
   </div>
+  
   <div class="row">
     <div class="col s12">
       <div class="col s12 m7">
@@ -173,7 +174,29 @@ image2description: wikimedia credits
       </div>
     </div>
   </div>
+    
+  <div class="row">
+    <div class="col s12">
+      <div class="col s12 m7">
+	<div class="card">
+	  <div class="card-image">
+            <img src="{filename}/images/tecip1.jpg">
+            <span class="card-title">TeCIP</span>
+	  </div>
+	  <div class="card-content">
+            <p>The Institute of Communication, lnformation and Perception Technologies (TeCIP) is part of the Scuola Superiore Sant'Anna. Its research concerns the use of photonic technologies in the construction of communication networks, sensors and biophysics. </p>
+	  </div>
+	  <div class="card-action">
+            <a href="tecip.sssup.it/">Website</a>
+	    <a href="http://www.openstreetmap.org/?mlat=43.71878&mlon=10.42274#map=18/43.71878/10.42274">MAP</a>
+	  </div>
+	</div>
+      </div>
+    </div>
+  </div>
+  
 
+  
   <h4>Accommodation</h4>
     <div class="row">
     <div class="col s12">
