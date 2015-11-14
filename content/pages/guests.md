@@ -180,6 +180,21 @@ high intensities, beginning as an experimentalist (mostly working on
   	<p><a href="http://www.df.unipi.it/~macchi/">more information</a></p>
       </div>
     </div>
+    <div class="row">
+    <div id="morsch" class="card medium col s12 m6">
+      <div class="card-image waves-effect waves-block waves-light">
+        <img class="activator" alt="Oliver Morsch" src="{filename}/images/morsch1.jpg">
+      </div>
+      <div class="card-content">
+        <span class="card-title activator grey-text text-darken-4">Oliver Morsch <i class="mdi-navigation-more-vert right"></i></span>
+        <p>Professor of Quantum Computing</p>
+      </div>
+      <div class="card-reveal">
+        <span class="card-title grey-text text-darken-4">Oliver Morsch <i class="mdi-navigation-close right"></i></span>
+	<p>Oliver Morsch studied physics at Oxford University, where he received his B.A. in 1995 and completed his D.Phil. thesis in 1999. He then moved to Pisa, Italy, first as a Marie Curie Fellow and subsequently as Senior Researcher at the CNR (National Research Council). His research interests include Bose Einstein condensates, optical lattices and Rydberg atoms.</p>
+    	<p><a href="https://www.df.unipi.it/gruppi/arimondo/morsch.html">more information</a></p>
+      </div>
+    </div>
   </div>
 </div>
 </div>
@@ -195,3 +210,4 @@ high intensities, beginning as an experimentalist (mostly working on
 <!-- <\!--     </div> -\-> -->
 <!-- <\!--   </div> -\-> -->
 <!-- <\!-- </div> -\-> -->
+
