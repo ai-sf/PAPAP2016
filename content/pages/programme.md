@@ -218,4 +218,27 @@ image2description: wikimedia credits
     </div>
   </div>
 
+    <!-- <h4>Opening Ceremony</h4> -->
+    <!-- <div class="row"> -->
+    <!--   <div class="col s12 m7"> -->
+    <!-- 	<table> -->
+    <!-- 	  <tbody> -->
+    <!-- 	    <tr> -->
+    <!-- 	      <td> 16:00 </td> -->
+    <!-- 	      <td> Welcome </td> -->
+    <!-- 	      <td> Marco Morrone, President of the AISF Local Committee </td> -->
+    <!-- 	    </tr> -->
+    <!-- 	    <tr> -->
+    <!-- 	      <td> 16:15 </td> -->
+    <!-- 	      <td> AISF Presentation </td> -->
+    <!-- 	      <td> Francesco Sciortino, AISF Event Coordinator </td> -->
+    <!-- 	    </tr> -->
+    <!-- 	    <tr> -->
+    <!-- 	      <td> 16:30 </td> -->
+    <!-- 	      <td> IAPS Presentation </td> -->
+	      
+    <!-- 	</table> -->
+    <!--   </div> -->
+    <!-- </div> -->
+    
 </div>
