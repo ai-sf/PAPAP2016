@@ -195,7 +195,28 @@ high intensities, beginning as an experimentalist (mostly working on
     	<p><a href="https://www.df.unipi.it/gruppi/arimondo/morsch.html">more information</a></p>
       </div>
     </div>
-  </div>
+    <div id="gonzalez" class="card medium col s12 m6">
+      <div class="card-image waves-effect waves-block waves-light">
+        <img class="activator" alt="Jose M. González Castro" src="{filename}/images/jmgonzalez1.jpg">
+      </div>
+      <div class="card-content">
+        <span class="card-title activator grey-text text-darken-4">Jose M. González Castro<i class="mdi-navigation-more-vert right"></i></span>
+        <p>PhD student at VIRGO and optical design expert</p>
+      </div>
+      <div class="card-reveal">
+        <span class="card-title grey-text text-darken-4">Jose M. González Castro <i class="mdi-navigation-close right"></i></span>
+	<p>Jose M. González Castro is currently doing his PhD within the VIRGO group at Pisa trying to find
+	  unexpected sources of stray light for the gravitational wave detector
+	  located in Cascina.
+	  He got My Msc in Physics at Universitat Politècnica de Catalunya, where his
+	  thesis topic was on Numerical Methods for hemodialysis. After he got his
+	  master degree, he started working into the world of optical design for
+	  cinematographic lenses in a small company based in Barcelona area until he
+	  moved to Pisa to start his PhD.
+    	<p><a href="http://www.grawiton-gw.eu/index.php/grawiton-early-stage-researchers">more information</a></p>
+      </div>
+    </div>
+
 </div>
 </div>
 <!-- <\!-- <div class="section">  -\-> -->
