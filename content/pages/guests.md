@@ -15,7 +15,7 @@ image2description: wikimedia credits
 <div class="section">
   <div class="row">
     <div class="col s12">
-      <h3>Guest speakers</h3>
+      <!-- <h3>Guest speakers</h3> -->
       <p class="align-left">We are happy to host professors, accademics and other prominent figures working with light and light-based technologies. Here you can find the profiles of some of them (constantly updated).</p>
     </div>
   </div>
@@ -91,7 +91,7 @@ image2description: wikimedia credits
 <div class="section">
   <div class="row">
     <div class="col s12">
-      <h4>Saturday: UNIPI Physics Department and VIRGO</h4>
+      <h4>Saturday: unipi Physics Department and VIRGO</h4>
       <p>After the visit of the Physics Department of the University of Pisa there will be a talk from Prof. Di Lieto focusing on the research done in the department; at VIRGO Prof. Cella will introduce the interferometer and the experiments for the detection of gravitational waves.</p>
       <ul class="collapsible" data-collapsible="accordion">
 	<li>
