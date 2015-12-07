@@ -35,7 +35,7 @@ image2description: wikimedia credits
 	    <td>LENS</td>
 	    <td>unipi Physics Facilities</td>
 	    <td>Tourism in Florence</td>
-	    <td>NEST/SSSUP</td>
+	    <td>NEST-SNS or TeCIP-SSSUP</td>
 	  </tr>	  <tr>
 	    <td>11:30</td>
 	    <td></td>
@@ -154,13 +154,14 @@ image2description: wikimedia credits
       </div>
     </div>
   </div>
+  
   <div class="row">
     <div class="col s12">
       <div class="col s12 m7">
 	<div class="card">
 	  <div class="card-image">
             <img src="{filename}/images/NEST-small-2.jpg">
-            <span class="card-title">NEST</span>
+            <span class="card-title">NEST-SNS</span>
 	  </div>
 	  <div class="card-content">
             <p>The National Enterprise for nanoScience and nanoTechnology (NEST) is an interdisciplinary research and training centre in Pisa which closely collaborates with the University of Pisa and the Scuola Normale Superiore. </p>
@@ -173,7 +174,29 @@ image2description: wikimedia credits
       </div>
     </div>
   </div>
+    
+  <div class="row">
+    <div class="col s12">
+      <div class="col s12 m7">
+	<div class="card">
+	  <div class="card-image">
+            <img src="{filename}/images/tecip1.jpg">
+            <span class="card-title">TeCIP-SSSUP</span>
+	  </div>
+	  <div class="card-content">
+            <p>The Institute of Communication, lnformation and Perception Technologies (TeCIP) is part of the Scuola Superiore Sant'Anna. Its research concerns the use of photonic technologies in the construction of communication networks, sensors and biophysics. </p>
+	  </div>
+	  <div class="card-action">
+            <a href="tecip.sssup.it/">Website</a>
+	    <a href="http://www.openstreetmap.org/?mlat=43.71878&mlon=10.42274#map=18/43.71878/10.42274">MAP</a>
+	  </div>
+	</div>
+      </div>
+    </div>
+  </div>
+  
 
+  
   <h4>Accommodation</h4>
     <div class="row">
     <div class="col s12">
@@ -195,4 +218,27 @@ image2description: wikimedia credits
     </div>
   </div>
 
+    <!-- <h4>Opening Ceremony</h4> -->
+    <!-- <div class="row"> -->
+    <!--   <div class="col s12 m7"> -->
+    <!-- 	<table> -->
+    <!-- 	  <tbody> -->
+    <!-- 	    <tr> -->
+    <!-- 	      <td> 16:00 </td> -->
+    <!-- 	      <td> Welcome </td> -->
+    <!-- 	      <td> Marco Morrone, President of the AISF Local Committee </td> -->
+    <!-- 	    </tr> -->
+    <!-- 	    <tr> -->
+    <!-- 	      <td> 16:15 </td> -->
+    <!-- 	      <td> AISF Presentation </td> -->
+    <!-- 	      <td> Francesco Sciortino, AISF Event Coordinator </td> -->
+    <!-- 	    </tr> -->
+    <!-- 	    <tr> -->
+    <!-- 	      <td> 16:30 </td> -->
+    <!-- 	      <td> IAPS Presentation </td> -->
+	      
+    <!-- 	</table> -->
+    <!--   </div> -->
+    <!-- </div> -->
+    
 </div>
