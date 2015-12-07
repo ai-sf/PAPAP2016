@@ -15,7 +15,7 @@ image2description: wikimedia credits
 <div class="section">
   <div class="row">
     <div class="col s12">
-      <h4>Guest speakers</h4>
+      <h3>Guest speakers</h3>
       <p class="align-left">We are happy to host professors, accademics and other prominent figures working with light and light-based technologies. Here you can find the profiles of some of them (constantly updated).</p>
     </div>
   </div>
@@ -25,21 +25,21 @@ image2description: wikimedia credits
 <div class="section">
   <div class="row">
     <div class="col s12">
-      <h5>Thursday: LIGHTalks</h5>
+      <h4>Thursday: LIGHTalks</h4>
       <p class="align-left"> The Opening Ceremony is open to the public. It will offer a short presentation of the event, of AISF and of IAPS and the LIGHTalks: Career in Photonics which consists of an set of live presenters from the scientific, entrepreneurial and industry communities speaking about different aspects of photonics.</p><p>We are proud to have a fantastic line-up of speakers, who will certainly entertain and inspire the audience to see new aspects of light technologies; short descriptions of their activities and interests can be found here:</p>
       <ul class="collapsible popout" data-collapsible="accordion">
 	<li>
 	  <div class="collapsible-header">Jose M. González Castro</div>
-	  <div class="collapsible-body"><p>PhD student at VIRGO and optical design expert</p>
-	    <img style="padding:30px;" alt="Jose M. González Castro" src="{filename}/images/jmgonzalez.jpg">
+	  <div class="collapsible-body"><h5 style="padding:30px">PhD student at VIRGO and optical design expert</h5>
+	    <p><img  class="responsive-img" alt="Jose M. González Castro" src="{filename}/images/jmgonzalez.jpg"></p>
 	    <p>Jose M. González Castro is currently doing his PhD within the VIRGO group at Pisa trying to find unexpected sources of stray light for the gravitational wave detector located in Cascina. He got My Msc in Physics at Universitat Politècnica de Catalunya, where his thesis topic was on Numerical Methods for hemodialysis. After he got his master degree, he started working into the world of optical design for cinematographic lenses in a small company based in Barcelona area until he moved to Pisa to start his PhD.</p>
     	    <p><a class="orange-text" href="http://www.grawiton-gw.eu/index.php/grawiton-early-stage-researchers">MORE INFORMATION</a></p>
 	  </div>
 	</li>
 	<li>
 	  <div class="collapsible-header">Maria Luisa Chiofalo</div>
-	  <div class="collapsible-body"><p>Town Councilor and Associate Professor of Condensed Matter</p>
-	    <img style="padding:30px;" alt="Jose M. González Castro" src="{filename}/images/chiofalo.jpg">
+	  <div class="collapsible-body"><h5 style="padding:30px">Town Councilor and Associate Professor of Condensed Matter</h5>
+	    <p><img class="responsive-img" alt="Maria Luisa Chiofalo" src="{filename}/images/chiofalo.jpg"></p>
 	    <p>Maria Luisa Chiofalo graduated in physics at the University of Pisa in 1992 and she is Associate Professor of Condensed Matter in the same university since 2007. Her main research topics are: high-temperature superconductivity; quantum degenerate Fermi and Bose atomic gases with tunable interactions and density and spin effects, also in reduced dimensions; application of the physics of quantum degenerate gases to fundamental physics and to technological devices.</br>
 	    She conceived and participated to several popular science activities and festival, including national TV and radio programs. <br/>
 	    She is also co-founder of the MAMI- Pisa, Italian expression of the UNICEF World Alliance for Breastfeeding Actions and Member of the Italian Association of Women and Science and of the network Women for Intelligent and Smart TERritories.</br>
@@ -49,13 +49,13 @@ image2description: wikimedia credits
 	</li>
 	<li>
 	  <div class="collapsible-header">Serena Gianfaldoni</div>
-	  <div class="collapsible-body"><p>Member of the MD Division of Dermatology, Department of Critical and Experimental Medicine, University of Pisa</p>
+	  <div class="collapsible-body"><h5 style="padding:30px">Member of the MD Division of Dermatology, Department of Critical and Experimental Medicine, University of Pisa</h5>
 	    <p>Soon more information, sorry!</p>
 	  </div>
 	</li>
 	<li>
 	  <div class="collapsible-header">Massimo Inguscio</div>
-	  <div class="collapsible-body"><h5>President of the Italian National Institute for Metrological Research (INRIM) </h5>
+	  <div class="collapsible-body"><h5 style="padding:30px">President of the Italian National Institute for Metrological Research (INRIM) </h5>
 	    <p><img alt="Massimo Inguscio" class="responsive-img" width="650" src="{filename}/images/inguscio2.jpg"></p>
 	    <p>Massimo Inguscio graduated in physics from the University of Pisa in 1972 and received his PhD from the Scuola Normale Superiore of Pisa in 1976. </br>
 	A full Professor of Optics, Atomic Physics and Structure of Matter at the University of Naples (from 1986) and at the University of Florence (from 1991), he is co-founder of LENS, the European Laboratory for Nonlinear Spectroscopy, which he led as Director for 6 years (1998-2004).  He was also Director of the Department for Material and Devices (2009-2012) and of the Department for Sciences and Technologies of Matter (2012-2014) of the CNR, the Italian National Research Council.</br>
@@ -65,8 +65,8 @@ image2description: wikimedia credits
 	</li>
 	<li>
 	  <div class="collapsible-header">Andrea Macchi</div>
-	  <div class="collapsible-body"><p>Research Scientist in Plasma Physics</p>
-	    <img alt="Andrea Macchi" width="100%" src="{filename}/images/macchi.jpg">
+	  <div class="collapsible-body"><h5 style="padding:30px">Research Scientist in Plasma Physics</h5>
+	    <p><img  class="responsive-img" alt="Andrea Macchi" width="650" src="{filename}/images/macchi.jpg"></p>
 	    <p>Andrea Macchi received a M.Sc. degree (Laurea) in Physics from the University of Pisa in 1995 with honors (110/110 cum laude) and a Ph.D. degree in Physics from the Scuola Normale Superiore of Pisa in 1999 with honors (70/70 cum laude).</br>
 	      Andrea Macchi has been active in laser-matter interaction at very high intensities, beginning as an experimentalist (mostly working on X-ray emission from laser-produced plasmas) and later focusing on theory and simulation, still in close contact with experimental work. He has given contributions on topics such as collisionless absorption, surface wave excitation, ion acceleration, nonlinear coherent structures. </br>
 	      A.M. is a staff research scientist with CNR/INO since 2010. Previously he was with CNR/INFM (2003-2009). He held a postdoctoral position at the Darmstadt University of Technology (1998-2000) and an International Fellowship at the Queen's University of Belfast (2008). He participated to many collaborative European and Italian projects, also as principal investigator or local coordinator since 2005.</br>
@@ -77,8 +77,8 @@ image2description: wikimedia credits
 	</li>
 	<li>
 	  <div class="collapsible-header">Oliver Morsch</div>
-	  <div class="collapsible-body"><p>Professor of Quantum Computing</p>
-	    <img alt="Oliver Morsch" width="100%" src="{filename}/images/morsch1.jpg">
+	  <div class="collapsible-body"><h5 style="padding:30px">Professor of Quantum Computing</h5>
+	    <p><img  class="responsive-img" alt="Oliver Morsch" width="650" src="{filename}/images/morsch1.jpg"></p>
 	    <p>Oliver Morsch studied physics at Oxford University, where he received his B.A. in 1995 and completed his D.Phil. thesis in 1999. He then moved to Pisa, Italy, first as a Marie Curie Fellow and subsequently as Senior Researcher at the CNR (National Research Council). His research interests include Bose Einstein condensates, optical lattices and Rydberg atoms.</p>
     	<p><a class="orange-text" href="https://www.df.unipi.it/gruppi/arimondo/morsch.html">MORE INFORMATION</a></p>
 	  </div>
@@ -91,12 +91,13 @@ image2description: wikimedia credits
 <div class="section">
   <div class="row">
     <div class="col s12">
-      <h5>Saturday: UNIPI Physics Department and VIRGO</h5>
+      <h4>Saturday: UNIPI Physics Department and VIRGO</h4>
       <p>After the visit of the Physics Department of the University of Pisa there will be a talk from Prof. Di Lieto focusing on the research done in the department; at VIRGO Prof. Cella will introduce the interferometer and the experiments for the detection of gravitational waves.</p>
       <ul class="collapsible" data-collapsible="accordion">
 	<li>
 	  <div class="collapsible-header">Alberto Di Lieto</div>
-	  <div class="collapsible-body"><p>Associate Professor of Applied Physics</p><img alt="Alberto Di Lieto" width="100%" src="{filename}/images/dilieto.jpg">
+	  <div class="collapsible-body"><h5 style="padding:30px">Associate Professor of Applied Physics</h5>
+	    <p><img  class="responsive-img" alt="Alberto Di Lieto" width="650" src="{filename}/images/dilieto.jpg"></p>
 	    <p>Alberto Di Lieto is an Associate Professor at the Department of Physics in Pisa. He taught various courses at the University of Pisa, Siena and the „Scuola Normale Superiore“; he is currently teaching the lab course „Digital	Technologies“.</br>
 	      His principal researching interests comprehends: Molecular and Laser Spectroscopy; High resolution in the Infrared, far Infrared and millimeter’s wave; Development of laser tunable sources and high sensible acoustic detectors; Development of new solid state laser sources; Rare Earth elements ions’ spectroscopy in crystalline matrices; Development of specific optic instrumentation for the project of research of Gravitational Waves at VIRGO; Didactic of Physics; Applied Physics (new instrumentation).</p>
     	    <p><a class="orange-text" href="http://www.df.unipi.it/~dilieto/">MORE INFORMATION</a></p>
@@ -104,7 +105,8 @@ image2description: wikimedia credits
 	</li>
 	<li>
 	  <div class="collapsible-header">Giancarlo Cella</div>
-	  <div class="collapsible-body"><p>Researcher for the VIRGO collaboration</p><img style="padding:30px;" alt="Giancarlo Cella" src="{filename}/images/cella.jpg">
+	  <div class="collapsible-body"><h5 style="padding:30px">Researcher for the VIRGO collaboration</h5>
+	    <p><img  class="responsive-img" alt="Giancarlo Cella" src="{filename}/images/cella.jpg"></p>
 	    <p>Giancarlo Cella is a physicist, researcher at the INFN sez. Pisa. He started his career working on perturbative QCD and lattice gauge theory. He is currently involved in the VIRGO collaboration, an experiment aiming to the direct observation of gravitational waves. He is interested mainly in phenomenology and detection of stochastic background of gravitational waves, gravitational wave data analysis and advanced detectors.</p>
 	    <p><a class="orange-text" href="http://www.df.unipi.it/~cella/">MORE INFORMATION</a></p>
 	  </div>
