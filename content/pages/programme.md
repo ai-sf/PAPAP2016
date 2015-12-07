@@ -254,6 +254,7 @@ image2description: wikimedia credits
 	  </table>
 	</div>
       </div>
+      <p>Last update: December, 7th. The program may be subject to change.</p>
     </div>
   </div>
 </div>
