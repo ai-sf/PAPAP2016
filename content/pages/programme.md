@@ -15,9 +15,45 @@ image2description: wikimedia credits
 <div class="section">
   <div class="row">
     <div class="col s12">
-      <h4>Schedule</h4>
+      <h4>Schedule</h4>  
       <div class="row">
 	<div class="col s12">
+	  <h5>In Short:</h5>
+	  <table>
+	    <thread>
+	      <tr>
+		<th data-field="time">Day</th>
+		<th data-field="what"></th>
+	      </tr>
+	    </thread>
+	    <tbody>
+	      <tr>
+		<td>Thursday</td>
+		<td>Arrival and Opening Ceremony; LIGHTtalks and Pisa by Night</td>
+	      </tr>
+	      <tr>
+		<td>Friday</td>
+		<td>LENS</td>
+	      </tr>
+	      <tr>
+		<td>Saturday</td>
+		<td>unipi Physics Facilities & VIRGO</td>
+	      </tr>
+	      <tr>
+		<td>Sunday</td>
+		<td>Free day in Florence; Uffizi Gallery (optional)</td>
+	      </tr>
+	      <tr>
+		<td>Monday</td>
+		<td>NEST-SNS or TeCIP-SSSUP; Departure</td>
+	      </tr>
+	    </tbody>
+	   </table>
+	</div>
+      </div>
+      <div class="row">
+	<div class="col s12">
+	  <h5>In detail:</h5>
 	  <ul class="tabs">
             <li class="tab col m3 s12"><a class="orange-text" href="#thursday">Thursday</a></li>
             <li class="tab col m3 s12"><a class="orange-text" href="#friday">Friday</a></li>
