@@ -18,7 +18,7 @@ image2description: wikimedia credits
       <h4>Schedule</h4>  
       <div class="row">
 	<div class="col s12">
-	  <h5>In Short:</h5>
+	  <h5>In short:</h5>
 	  <table>
 	    <thread>
 	      <tr>
