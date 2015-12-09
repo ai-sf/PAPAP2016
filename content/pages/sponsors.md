@@ -29,6 +29,7 @@ image2description: wikimedia credits
     <li class="collection-item">VIRGO</li>
     <li class="collection-item">Comune di Pisa</li>
     <li class="collection-item">Provincia di Pisa</li>
+    <li class="collection-item">Università di Firenze</li>
     <li class="collection-item">DSU Toscana</li>
   </ul>
 </div>

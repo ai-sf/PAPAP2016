@@ -87,7 +87,7 @@ FOOTER_CONNECT = collections.OrderedDict([
 ])
 
 FOOTER_CONTACT = collections.OrderedDict([
-    ('Facebook Event Page','#'),
+    ('Facebook Event Page','https://www.facebook.com/events/895616630487424/'),
     ('AISF Website','http://www.ai-sf.it/joomla/it'),
     ('IAPS Website','http://www.iaps.info'),
 ])
