@@ -279,7 +279,7 @@ image2description: wikimedia credits
 		<td>NEST-SNS or TeCIP-SSSUP</td>
 	      </tr>
 	      <tr>
-		<td>12:00</td>
+		<td>12:30</td>
 		<td>Lunch</td>
 	      </tr>
 	      <tr>
@@ -459,14 +459,14 @@ image2description: wikimedia credits
       <div class="col s12 m7">
 	<div class="card">
 	  <div class="card-image">
-            <img src="{filename}/images/tecip1.jpg">
+            <img src="{filename}/images/tecip2.png">
             <span class="card-title">TeCIP-SSSUP</span>
 	  </div>
 	  <div class="card-content">
             <p>The Institute of Communication, lnformation and Perception Technologies (TeCIP) is part of the Scuola Superiore Sant'Anna. Its research concerns the use of photonic technologies in the construction of communication networks, sensors and biophysics. </p>
 	  </div>
 	  <div class="card-action">
-            <a href="tecip.sssup.it/">Website</a>
+            <a href="http://www.santannapisa.it/it/istituto/tecip/istituto-tecip">Website</a>
 	    <a href="http://www.openstreetmap.org/?mlat=43.71878&mlon=10.42274#map=18/43.71878/10.42274">MAP</a>
 	  </div>
 	</div>
