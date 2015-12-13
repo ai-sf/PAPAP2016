@@ -11,6 +11,8 @@ image1: pisa3.jpg
 image1description: wikimedia credits
 image2: florence3.jpg
 image2description: wikimedia credits
+buttonfile: LoTprogramme.pdf
+buttondescription: PDF programme
 
 <div class="section">
   <div class="row">
