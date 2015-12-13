@@ -75,55 +75,55 @@ image2description: wikimedia credits
 	    </thread>
 	    <tbody>
 	      <tr>
-		<td>11:30</td>
+		<td>11:00</td>
 		<td>Arrival at Hotel Moderno</td>
 	      </tr>
 	      <tr>
 		<td>14:30</td>
-		<td>Opening Ceremony</td>
-	      </tr>
-	      <tr>
-		<td>14:45</td>
-		<td>Event Presentation</td>
-	      </tr>
-	      <tr>
-		<td>14:55</td>
-		<td>AISF Presentation</td>
-	      </tr>
-	      <tr>
-		<td>15:05</td>
-		<td>IAPS Presentation</td>
+		<td>Opening - Aula Vitali</td>
 	      </tr>
 	      <tr>
 		<td>15:15</td>
-		<td>LIGHTtalks: Careers in Photonics</td>
+		<td>AISF Presentation</td>
 	      </tr>
 	      <tr>
-		<td>15:20</td>
-		<td>Dr. Serena Gianfaldoni</td>
+		<td>15:30</td>
+		<td>IAPS Presentation</td>
 	      </tr>
 	      <tr>
-		<td>15:40</td>
-		<td>Prof. Andrea Macchi</td>
+		<td>15:45</td>
+		<td>Photonics and the Power of Light</td>
 	      </tr>
 	      <tr>
 		<td>16:00</td>
-		<td>Prof. Massimo Inguscio</td>
+		<td>Break</td>
 	      </tr>
 	      <tr>
-		<td>16:20</td>
+		<td>16:10</td>
+		<td>Dr. Serena Gianfaldoni</td>
+	      </tr>
+	      <tr>
+		<td>16:30</td>
 		<td>Prof. Oliver Morsch</td>
 	      </tr>
 	      <tr>
-		<td>16:40</td>
-		<td>Prof. Maria Luisa Chiofalo</td>
+		<td>16:50</td>
+		<td>Prof. Massimo Inguscio</td>
 	      </tr>
 	      <tr>
-		<td>17:00</td>
-		<td>Mr. Jose M. González Castro</td>
+		<td>17:10</td>
+		<td>Break</td>
 	      </tr>
 	      <tr>
 		<td>17:20</td>
+		<td>Prof. Andrea Macchi</td>
+	      </tr>
+	      <tr>
+		<td>17:40</td>
+		<td>Mr. Jose M. González Castro</td>
+	      </tr>
+	      <tr>
+		<td>18:00</td>
 		<td>Round Table</td>
 	      </tr>
 	      <tr>
@@ -290,7 +290,7 @@ image2description: wikimedia credits
 	  </table>
 	</div>
       </div>
-      <p>Last update: December, 7th. The program may be subject to change.</p>
+      <p>Last update: 13/12/15. The program may be subject to change.</p>
     </div>
   </div>
 </div>
