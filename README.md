@@ -1,5 +1,4 @@
-# lightsoftuscany
-The portal of the Lights of Tuscany event
+# apap
+The portal of the Astroparticle Physics Autumn Programme
 
 Thisi is a website built with [Pelican](http://docs.getpelican.com/en) and my theme [materializepelican](https://github.com/gpasqualetti/materializepelican).
-You can find it online [here](http://ai-sf.it/lot).
