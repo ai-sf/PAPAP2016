@@ -4,7 +4,7 @@ from __future__ import unicode_literals
 from time import strftime, localtime
 import collections
 
-SITENAME = "Lights of Tuscany"
+SITENAME = "APAP"
 AUTHOR = 'Giulio Pasqualetti'
 #SITEURL = ''
 
@@ -68,7 +68,7 @@ THEME = "themes/materializecss"
 #     }
 # }
 
-HIDDEN_PAGES = ['Lights of Tuscany'] # The title of the index and/or other things
+HIDDEN_PAGES = ['Astroparticle Physics Autumn Programme'] # The title of the index and/or other things
 
 DATE = strftime("on %A, %d %B %Y %H:%M (%z)", localtime())
 
@@ -94,4 +94,4 @@ FOOTER_CONTACT = collections.OrderedDict([
 
 MENUITEMS= [('AISF','http://ai-sf.it')]
 
-NICKNAME="LoT" # Prefix of the Name Page
+NICKNAME="apap" # Prefix of the Name Page
