@@ -7,10 +7,9 @@ description: Schedule and description of the facilities visited
 keywords: schedule virgo nest unipi lights of tuscany facilities
 url: programme.html
 save_as: programme.html
-image1: pisa3.jpg
-image1description: wikimedia credits
-image2: florence3.jpg
-image2description: wikimedia credits
+image1: 2015_day2_005_big.jpg
+image1description: iaps@GranSasso 2015
+
 <!-- buttonfile: LoTprogramme.pdf -->
 <!-- buttondescription: PDF programme -->
 
@@ -57,12 +56,12 @@ image2description: wikimedia credits
 	<div class="col s12">
 	  <h5>In detail:</h5>
 	  <ul class="tabs">
-            <li class="tab col m3 s12"><a class="orange-text" href="#thursday">Thursday</a></li>
-            <li class="tab col m3 s12"><a class="orange-text" href="#friday">Friday</a></li>
-            <li class="tab col m3 s12"><a class="orange-text" href="#saturday">Saturday</a></li>
-            <li class="tab col m3 s12"><a class="orange-text" href="#sunday">Sunday</a></li>
-	    <li class="tab col m3 s12"><a class="orange-text" href="#monday">Monday</a></li>
-	    <div class="indicator orange" style="z-index:1"></div>
+            <li class="tab col m3 s12"><a class="purple-text text-darken-2" href="#thursday">Thursday</a></li>
+            <li class="tab col m3 s12"><a class="purple-text text-darken-2" href="#friday">Friday</a></li>
+            <li class="tab col m3 s12"><a class="purple-text text-darken-2" href="#saturday">Saturday</a></li>
+            <li class="tab col m3 s12"><a class="purple-text text-darken-2" href="#sunday">Sunday</a></li>
+	    <li class="tab col m3 s12"><a class="purple-text text-darken-2" href="#monday">Monday</a></li>
+	    <div class="indicator purple darken-2" style="z-index:1"></div>
 	  </ul>
 	</div>
 	<!-- <div id="thursday" class="col s12">  -->

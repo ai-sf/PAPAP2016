@@ -7,10 +7,9 @@ description: Register here for the Lights of Tuscany Event
 keywords: lights of tuscany register fee iaps aisf
 url: registration.html
 save_as: registration.html
-image1: fiber1.jpg
-image1description: wikimedia credits
-image2: laser2.jpe
-image2description: wikimedia credits
+image1: 2015_day4_008_big.jpg
+image1description: iaps@GranSasso 2015
+
 
 <div class="section">
   <!-- <div class="section"> -->
@@ -30,7 +29,7 @@ image2description: wikimedia credits
 	<li>
 	  <p>In order to enroll to the event you must be an IAPS member.</p>
 	</li><li>
-	  <p>Because of the strict requirements of some laboratories, the number of participants is set at 40; we expect roughly 1/2 of whom be international.</p>
+	  <p>Because of the strict requirements of some laboratories, the number of participants is set at 40; we expect roughly 1/2 of these to be international.</p>
 	</li><li>
 	  <p>The participation fee is fixed at €100 per person. Such fee will cover the cost of accommodation in both L'Aquila and Rome, breakfast at the Federico II Hotel, 2 lunches at the LNGS, IAPS clothing, a day-trip to the Campo Imperatore resort, travel from Rome to L’Aquila (and viceversa), as well as travel from the Federico II Hotel to the Gran Sasso (and viceversa) during the days of our visits. Please notice that participation fees do not cover the following:
 	    <ul>
@@ -40,7 +39,7 @@ image2description: wikimedia credits
 	      <li><p>Meals other than those officially offered in the Programme. In particular, participants will need to pay for all their dinners, their breakfast in Rome, lunch at the ENEA Frascati centre and any extra expenses that they might wish to make. The Organising Committee will always suggest places to eat, according to students' needs. </p></li>
 	      </ul></p>
 
-	    <p>Note: if you are Italian and you are not an IAPS/AISF member yet you can become an AISF member while registering for this event: you need to fill in <a class="orange-text" href="http://www.ai-sf.it/joomla/it/membri">this</a> module and make a single payment including both the quotes.</p>
+	    <p>Note: if you are Italian and you are not an IAPS/AISF member yet you can become an AISF member while registering for this event: you need to fill in <a class="purple-text text-darken-2" href="http://www.ai-sf.it/joomla/it/membri">this</a> module and make a single payment including both the quotes.</p>
     </div>
   </div>
 </div>
@@ -58,7 +57,7 @@ image2description: wikimedia credits
     <div class="col s12">
       <h4>Deadline for registration and payment</h4>
       <ul>
-	<li><p>A first round of registration for the event will be open on <a href="http://www.ai-sf.it">the AISF website</a> between June 1st (13:00, CET) and June 10th (13:00, CET).</p></li>
+	<li><p>A first round of registration for the event will be open on <a class="purple-text text-darken-2" href="http://www.ai-sf.it">the AISF website</a> between June 1st (13:00, CET) and June 10th (13:00, CET).</p></li>
 	<li><p>Preference will be given to students presenting abstracts (for either a talk or a poster), even though only 5 applicants will eventually be able to give a talk (whilst the number of posters may be larger). Please notice that applicants do not need to be specialising in the field of nuclear physics, but can be from any discipline of Physics.</p></li>
 	    <li><p>Observer places, i.e. those for students who choose not to present scientific contributions, will be awarded based on short motivations to be submitted during the registration process.</p></li> 
       </ul>
@@ -79,7 +78,7 @@ image2description: wikimedia credits
 	</li><li>
 	  <p>You acknowledge and agree that the organizing committee and the hosts of the event have no responsibility whatsoever for injuries, losses, or damages of any kind that result from your participation in Lights of Tuscany 2015.</p>
 	  </li><li>
-	  <p>You accept the <a class="orange-text" href="files/IAPS_Code_of_Conduct.pdf">IAPS Code of Conduct</a>.</p>
+	  <p>You accept the <a class="purple-text text-darken-2" href="files/IAPS_Code_of_Conduct.pdf">IAPS Code of Conduct</a>.</p>
 	  </li><li>
 	  <p>By participating in the event you agree to be filmed, photographed, and otherwise recorded during the conference and hereby expressly grant the organizing committee, AISF and IAPS the right to use your picture, movie or any other form of media publication. You also confirm that the information contained in this application is true and correct.</p>
 	</li><li>
