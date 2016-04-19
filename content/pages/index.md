@@ -1,13 +1,13 @@
 Title: Astroparticle Physics Autumn Programme
-Date: 2016-03-28
+Date: 2016-04-19
 Author: Giulio Pasqualetti
 Summary: The homepage for the Astroparticle Physics Autumn Programme
 description: The homepage for the Astroparticle Physics Autumn Programme
 keywords: apap astroparticle physics aisf iaps lngs gran sasso
 ogtitle: Astroparticle Physics Autumn Programme
 ogdescription: Scientific excellence of Central Italy
-image1: Gran_Sasso_04.jpg
-image1description: wikimedia credits
+image1: 2015_day3_005_big1.jpg
+image1description: iaps@GranSasso 2015
 image2: Aquila2_1.jpg
 image2description: wikimedia credits
 subtitle: We are organizing the event
@@ -19,25 +19,23 @@ save_as: index.html
   <div class="row">
     <div class="col s12 m4">
       <div class="icon-block">
-        <h2 class="center purple-text text-darken-2"> <i class="mdi-action-account-child"></i></h2>
+        <h2 class="center indigo-text text-darken-2"> <i class="mdi-action-account-child"></i></h2>
         <h5 class="center">Who</h5>
-        <p class="light">About 40 physics students from all levels
-          of study are expected to participate, 1/2 of whom
-          international. They must be IAPS members.</p>
+        <p class="light">40 physics students, from the Italian Association of Physics Students and the International Association of Physics Students. All background and nationalities are welcome!</p>
       </div>
     </div> 
     <div class="col s12 m4">
       <div class="icon-block">
-        <h2 class="center purple-text text-darken-2"> <i class="mdi-action-event"></i></h2>
+        <h2 class="center indigo-text text-darken-2"> <i class="mdi-action-event"></i></h2>
         <h5 class="center">When</h5>
-        <p class="light">In September 2016, from BLA BLA BLA.</p>
+        <p class="light">Between the 20th and the 24th of September 2016 (dates to be confirmed).</p>
       </div>
     </div>
     <div class="col s12 m4">
       <div class="icon-block">
-        <h2 class="center purple-text text-darken-2"> <i class="mdi-action-room"></i></h2>
+        <h2 class="center indigo-text text-darken-2"> <i class="mdi-action-room"></i></h2>
         <h5 class="center">Where</h5>
-        <p class="light">In Central Italy. Arrival, visit to ENEA laboratories in Frascati. Departure will take place from Rome again. L'Aquila and the Gran Sasso massif will host the central part of the program, with visits to LNGS and GSSI and possibily some hiking.</p>
+        <p class="light">In central Italy. Students will meet in Rome and visit the ENEA laboratories in Frascati on the first day. They will then move to the city of L'Aquila to spend two days at the LNGS and GSSI facilities. On the final day, an optional mountain excursion will be offered before returning to Rome.</p>
       </div>
     </div>
   </div>
@@ -49,7 +47,7 @@ save_as: index.html
 <div class="slider">
   <ul class="slides">
     <li>
-        <img src="{filename}/images/2015_day3_005.jpg"> <!-- random image -->
+        <img src="{filename}/images/group_GranSasso.jpg"> <!-- random image -->
         <div class="caption left-align">
           <h3>LNGS</h3>
           <h5 class="light grey-text text-lighten-3">Gran Sasso National Laboratory</h5>
@@ -63,7 +61,7 @@ save_as: index.html
         </div>
       </li>
       <li>
-        <img src="{filename}/images/2015_day4_006.jpg"> <!-- random image -->
+        <img src="{filename}/images/2015_day4_007.jpg"> <!-- random image -->
         <div class="caption right-align">
           <h3>GSSI</h3>
           <h5 class="light grey-text text-lighten-3">Gran Sasso Science Institute</h5>
@@ -83,9 +81,11 @@ save_as: index.html
   <div class="section">
     <div class="row">
       <div class="col s12 center">
-        <h3><i class="mdi-content-send purple-text text-darken-2"></i></h3>
-        <h4>Qualche informazione</h4>
-        <p class="left-align light">Qui ci va scritto qualcosa o lo stacco tra le immagini delle slide e quella del parallax è brutta.</p>
+        <h3><i class="mdi-content-send indigo-text text-darken-2"></i></h3>
+        <!-- <h4>Qualche informazione</h4> -->
+        <p class="left-align light">
+The Particle & Astroparticle Physics Programme, now at its second edition, is organised by the Italian Association of Physics Students and is open to all members of the International Assocation of Physics Students. The event will bring 40 students to visit some of the most advanced research facilities in Europe, with a focus on astroparticle physics and one key mission: to foster enthusiasm in the minds of young physicists.
+</p>
       </div>
     </div>
   </div>

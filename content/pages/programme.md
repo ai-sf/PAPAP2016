@@ -1,10 +1,10 @@
 Title: Programme
 subtitle: the programme of the event
-Date: 2015-03-28 20:23
+Date: 2016-04-19
 Author: Giulio Pasqualetti
 Summary: Schedule and description of the facilities visited
 description: Schedule and description of the facilities visited
-keywords: schedule virgo nest unipi lights of tuscany facilities
+keywords: programme apap physics aisf iaps gran sasso lngs
 url: programme.html
 save_as: programme.html
 image1: 2015_day2_005_big.jpg
@@ -12,10 +12,28 @@ image1description: iaps@GranSasso 2015
 
 <!-- buttonfile: LoTprogramme.pdf -->
 <!-- buttondescription: PDF programme -->
-
 <div class="section">
   <div class="row">
     <div class="col s12">
+      <h4>General info</h4>
+
+	  <p>The Particle & Astroparticle Physics Programme is coming to its second edition, this time to be held in the autumn. Following last year's great success, the Italian Association of Physics Students (AISF) will be organising a similar event, also including some new features and further improvements.</p>
+
+
+	  <p>During the Programme, 40 students will be visiting the ENEA laboratories in Frascati, the National Gran Sasso Laboratory and the Gran Sasso Science Institute in central Italy. Participants will meet in Rome, then move to the city of L'Aquila by coach and eventually return to Rome for departure. The event will have a focus on astroparticle physics, but a number of other topics will be touched upon, including lasers, nuclear fusion, high energy collisions and cosmology. Students will be expected to have a basic understanding of these subjects in order to effectively make the most of the programme.</p>
+
+
+	  <p>The complete event programme for 2016 can be downloaded <a class="indigo-text" href="files/APAP_Programme.pdf">here</a>.</p>
+
+
+	  <p>A quick visualisation of the programme schedule is shown below:</p>
+
+<!--     </div> -->
+<!--   </div> -->
+<!-- </div> -->
+<!-- <div class="section"> -->
+<!--   <div class="row"> -->
+<!--     <div class="col s12"> -->
       <h4>Schedule</h4>  
       <div class="row">
 	<div class="col s12">
@@ -46,6 +64,10 @@ image1description: iaps@GranSasso 2015
 	      </tr>
 	      <tr>
 		<td>Day 5</td>
+		<td>Optional mountaineering</td>
+	      </tr>
+	      <tr>
+		<td>Day 6</td>
 		<td>Transfer to Rome and visit of the city</td>
 	      </tr>
 	    </tbody>
@@ -56,14 +78,16 @@ image1description: iaps@GranSasso 2015
 	<div class="col s12">
 	  <h5>In detail:</h5>
 	  <ul class="tabs">
-            <li class="tab col m3 s12"><a class="purple-text text-darken-2" href="#thursday">Thursday</a></li>
-            <li class="tab col m3 s12"><a class="purple-text text-darken-2" href="#friday">Friday</a></li>
-            <li class="tab col m3 s12"><a class="purple-text text-darken-2" href="#saturday">Saturday</a></li>
-            <li class="tab col m3 s12"><a class="purple-text text-darken-2" href="#sunday">Sunday</a></li>
-	    <li class="tab col m3 s12"><a class="purple-text text-darken-2" href="#monday">Monday</a></li>
-	    <div class="indicator purple darken-2" style="z-index:1"></div>
+	    <li class="tab col m3 s12"><a class="indigo-text " href="#tuesday">Tuesday</a></li>
+	      <li class="tab col m3 s12"><a class="indigo-text " href="#wednesday">Wednesday</a></li>
+            <li class="tab col m3 s12"><a class="indigo-text" href="#thursday">Thursday</a></li>
+            <li class="tab col m3 s12"><a class="indigo-text" href="#friday">Friday</a></li>
+            <li class="tab col m3 s12"><a class="indigo-text" href="#saturday">Saturday</a></li>
+            <li class="tab col m3 s12"><a class="indigo-text" href="#sunday">Sunday</a></li>	  
+	    <div class="indicator indigo" style="z-index:1"></div>
 	  </ul>
 	</div>
+      </div>
 	<!-- <div id="thursday" class="col s12">  -->
 	<!--   <br> -->
 	<!--   <h5>Thursday 17/12</h5> -->
@@ -294,8 +318,8 @@ image1description: iaps@GranSasso 2015
       <p>Coming soon</p>
       <!-- <p>Last update: 13/12/15. The program may be subject to change.</p> -->
     </div>
-  </div>
-</div>
+
+
 	
 <!-- <table> -->
 <!--   <thead> -->
@@ -374,4 +398,29 @@ image1description: iaps@GranSasso 2015
 <!--   </div> -->
 <!-- </div> -->
 
+
+
+
+  A few points to note:
+
+
+  *   In order to enroll to the event you must be an IAPS member.
+
+  *   We expect to select 40 students, of whom approximately half will be Italian.
+
+  *   The participation fee is fixed at €100 per person. Such fee will cover the cost of accommodation in both L'Aquila and Rome, breakfast at the Federico II Hotel, 2 lunches at the LNGS, IAPS clothing, a day-trip to the Campo Imperatore resort, travel from Rome to L’Aquila (and viceversa), as well as travel from the Federico II Hotel to the Gran Sasso (and viceversa) during the days of our visits. Please notice that participation fees do not cover the following:
+
+     *   Journeys to/from Rome at arrival and departure. These will need to be arranged independently;
+
+     *   Insurance;
+
+     *   Public transport from Frascati to the centre of Rome and in Rome;
+
+     *   Meals other than those officially offered in the Programme. In particular, participants will need to pay for all their dinners, their breakfast in Rome, lunch at the ENEA Frascati centre and any extra expenses that they might wish to make. The Organising Committee will always suggest places to eat, according to students' needs.
+
+Note: if you are Italian and you are not an IAPS/AISF member yet you can become an AISF member while registering for this event: you need to fill in <a class="indigo-text" href="http://www.ai-sf.it/joomla/it/membri">this</a> module and make a single payment including both the quotes.
+
+  *   Please note that unfortunately we are not able to provide scholarships and/or bursaries for any students at this time.
+  </div>
+  </div>
 

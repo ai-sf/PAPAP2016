@@ -1,23 +1,34 @@
 Title: Guests & Facilities
-subtitle: professors, researchers, enterpreneurs
-Date: 2016-03-28
+subtitle: research on the fundamental laws of Nature
+Date: 2016-04-19
 Author: Giulio Pasqualetti
-Summary: the Guests 
-description: the 
-keywords: lights of tuscany guests
-url: guests.html
-save_as: guests.html
+Summary: research on the fundamental laws of Nature
+description: research on the fundamental laws of Nature
+keywords: apap lngs gran sasso aisf iaps
+url: facilities.html
+save_as: facilities.html
 image1: 2015_day3_003_big.jpg
-image1description: wikimedia credits
+image1description: iaps@GranSasso 2015
 
 
-<div class="section">
-  <div class="row">
-    <div class="col s12">
-      <!-- <h3>Guest speakers</h3> -->
-      <p class="align-left">We are happy to host professors, accademics and other prominent figures working with light and light-based technologies. Here you will find their profiles as soon as possibile.</p>
-    </div>
-  </div>
+<!-- <div class="section"> -->
+<!--   <div class="row"> -->
+<!--     <div class="col s12"> -->
+<!--       <\!-- <h3>Guest speakers</h3> -\-> -->
+<!--       <p class="align-left"> -->
+* During the event, we will visit the ENEA laboratories in Frascati, where we will visit the Laser ABC experiment, which explores the conditions required for inertial confinement fusion and other extreme states of matter. We hope to be able to visit the Frascati Tokamak Upgrade magnetic confinement fusion facility as well, just a few steps away.
+
+
+* The Gran Sasso National Laboratory (LNGS) hosts many of the most advanced astroparticle physics experiments in the world, having made scientific journals' front pages on several occasions. The facilities can be accessed via the Gran Sasso tunnel and are buried below 1400 meters of solid rock, within the Gran Sasso mountain.
+
+
+* The Gran Sasso Science Institute (GSSI) is a modern institution focusing on astroparticle physics, mathematics and modelling. Its location close to the LNGS offers its members a unique opportunity to access world-class experiments within the mountain. The GSSI has an active PhD programme in Physics and will be displaying some of the work that students do there.
+
+
+
+* During our visits, we will be offered a large number of talks, as in the 2015 edition. In particular, we expect to have overviews of all the major experiments running at Frascati and at the LNGS. The experience can be overwhelming! We will provide further details of our speakers as they become available.<!-- </p> -->
+  <!--   </div> -->
+  <!-- </div> -->
 
 
 <div class="section">
@@ -37,8 +48,8 @@ image1description: wikimedia credits
 	      It is located under 1400 m of solid rock in the Gran Sasso massif. </p>
 	  </div>
 	  <div class="card-action">
-            <a href="http://www.lens.unifi.it/">Website</a>
-	    <a href="http://www.openstreetmap.org/?mlat=43.81879&amp;mlon=11.19292#map=17/43.81879/11.19292">MAP</a>
+            <a class="indigo-text" href="https://www.lngs.infn.it/en">Website</a>
+	    <a class="indigo-text" href="https://goo.gl/maps/YJG4YTQ88F12">MAP</a>
 	  </div>
 	</div>
       </div>
@@ -56,8 +67,8 @@ image1description: wikimedia credits
 	    <p>The Gran Sasso Science Institute (GSSI) is an international PhD school and a center for research and higher education. The GSSI aims to create a new center of scientific excellence in L’Aquila fostering the skills and highly specialized structures already present in the area, such as the Gran Sasso National Laboratories.</p>
 	  </div>
 	  <div class="card-action">
-            <a href="https://www.df.unipi.it/">Website</a>
-	    <a href="http://www.openstreetmap.org/?mlat=43.72075&amp;mlon=10.40781#map=19/43.72075/10.40781">MAP</a>
+            <a class="indigo-text" href="http://www.gssi.infn.it/">Website</a>
+	    <a class="indigo-text" href="https://www.google.com/maps/place/GSSI/@42.3445645,13.3943675,17z/data=!3m1!4b1!4m2!3m1!1s0x132fd2572a27c577:0x40ec1aa355f4d1f3?hl=en">MAP</a>
 	  </div>
 	</div>
       </div>
@@ -75,8 +86,8 @@ image1description: wikimedia credits
             <p>The Frascati Research Center of ENEA (Italian National Agency for New Technologies, Energy and Sustainable Economic Development) is the facility leading research on nuclear fusion in Italy. It is located in the surroundings of Rome. </p>
 	  </div>
 	  <div class="card-action">
-            <a href="http://www.ego-gw.it/">Website</a>
-	    <a href="http://www.openstreetmap.org/?mlat=43.6310&amp;mlon=10.5040#map=14/43.6310/10.5040">MAP</a>
+            <a class="indigo-text" href="http://www.enea.it">Website</a>
+	    <a class="indigo-text" href="">MAP</a>
 	  </div>
 	</div>
       </div>

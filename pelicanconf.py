@@ -97,6 +97,7 @@ OGURL = "http://www.ai-sf.it/apap"
 
 NICKNAME="apap" # Prefix of the Name Page
 
-FOOTER_COLOR = "purple darken-4"
+FOOTER_COLOR = "indigo"
 FOOTER_COLOR_TEXT = "white"
-COLOR = "purple-text text-darken-2"
+#COLOR = "purple-text text-darken-2"
+COLOR = "indigo-text indigo lighten-5 text-darken-4"
