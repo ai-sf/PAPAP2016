@@ -7,7 +7,7 @@ description: research on the fundamental laws of Nature
 keywords: apap lngs gran sasso aisf iaps
 url: facilities.html
 save_as: facilities.html
-image1: 2015_day3_003_big.jpg
+image1: 2015_day3_003_big2.jpg
 image1description: iaps@GranSasso 2015
 
 
@@ -40,7 +40,7 @@ image1description: iaps@GranSasso 2015
       <div class="col s12 m7">
 	<div class="card">
 	  <div class="card-image">
-            <img src="{filename}/images/2015_day3_001.jpg">
+            <img src="{filename}/images/2015_day3_001_2.jpg">
             <span class="card-title">LNGS</span>
 	  </div>
 	  <div class="card-content">
@@ -60,7 +60,7 @@ image1description: iaps@GranSasso 2015
       <div class="col s12 m7">
 	<div class="card">
 	  <div class="card-image">
-            <img src="{filename}/images/2015_day4_006.jpg">
+            <img src="{filename}/images/2015_day4_006_2.jpg">
             <span class="card-title">GSSI</span>
 	  </div>
 	  <div class="card-content">
@@ -79,7 +79,7 @@ image1description: iaps@GranSasso 2015
       <div class="col s12 m7">
 	<div class="card">
 	  <div class="card-image">
-            <img src="{filename}/images/2015_day2_001.jpg">
+            <img src="{filename}/images/2015_day2_001_2.jpg">
             <span class="card-title">ENEA</span>
 	  </div>
 	  <div class="card-content">

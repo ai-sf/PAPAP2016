@@ -7,7 +7,7 @@ description: Sponsors of the event
 keywords: physics apap aisf lngs gran asso
 url: sponsors.html
 save_as: sponsors.html
-image1: 2015_day3_007_big.jpg
+image1: 2015_day3_007_big2.jpg
 image1description: iaps@GranSasso 2015
 
 

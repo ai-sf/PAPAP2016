@@ -6,9 +6,9 @@ description: The homepage for the Astroparticle Physics Autumn Programme
 keywords: apap astroparticle physics aisf iaps lngs gran sasso
 ogtitle: Astroparticle Physics Autumn Programme
 ogdescription: Scientific excellence of Central Italy
-image1: 2015_day3_005_big1.jpg
+image1: 2015_day3_005_big2.jpg
 image1description: iaps@GranSasso 2015
-image2: Aquila2_1.jpg
+image2: Aquila2_big2.jpg
 image2description: wikimedia credits
 subtitle: We are organizing the event
 url: index.html
@@ -47,21 +47,21 @@ save_as: index.html
 <div class="slider">
   <ul class="slides">
     <li>
-        <img src="{filename}/images/group_GranSasso.jpg"> <!-- random image -->
+        <img src="{filename}/images/group_GranSasso_2.jpg"> <!-- random image -->
         <div class="caption left-align">
           <h3>LNGS</h3>
           <h5 class="light grey-text text-lighten-3">Gran Sasso National Laboratory</h5>
         </div>
       </li>
       <li>
-        <img src="{filename}/images/2015_day2_007.jpg"> <!-- random image -->
+        <img src="{filename}/images/2015_day2_007_2.jpg"> <!-- random image -->
         <div class="caption center-align">
           <h3>ENEA</h3>
           <h5 class="light grey-text text-lighten-3">Italian National Agency for New Technologies, Energy and Sustainable Economic Development</h5>
         </div>
       </li>
       <li>
-        <img src="{filename}/images/2015_day4_007.jpg"> <!-- random image -->
+        <img src="{filename}/images/2015_day4_007_2.jpg"> <!-- random image -->
         <div class="caption right-align">
           <h3>GSSI</h3>
           <h5 class="light grey-text text-lighten-3">Gran Sasso Science Institute</h5>

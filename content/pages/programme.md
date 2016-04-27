@@ -7,7 +7,7 @@ description: Schedule and description of the facilities visited
 keywords: programme apap physics aisf iaps gran sasso lngs
 url: programme.html
 save_as: programme.html
-image1: 2015_day2_005_big.jpg
+image1: 2015_day2_005_big2.jpg
 image1description: iaps@GranSasso 2015
 
 <!-- buttonfile: LoTprogramme.pdf -->
@@ -401,26 +401,20 @@ image1description: iaps@GranSasso 2015
 
 
 
-  A few points to note:
+<h5>  A few points to note:</h5>
 
+<div class="collection">
+  <a href="#!" class="collection-item black-text">In order to enroll to the event you must be an IAPS member.</a>
+  <a href="#!" class="collection-item black-text">We expect to select 40 students, of whom approximately half will be Italian.</a>
+  <a href="#!" class="collection-item black-text">The participation fee is fixed at €100 per person. Such fee will cover the cost of accommodation in both L'Aquila and Rome, breakfast at the Federico II Hotel, 2 lunches at the LNGS, IAPS clothing, a day-trip to the Campo Imperatore resort, travel from Rome to L’Aquila (and viceversa), as well as travel from the Federico II Hotel to the Gran Sasso (and viceversa) during the days of our visits. Please notice that participation fees <b>do not cover</b> the following:</a>
+  <a href="#!" class="collection-item black-text indigo lighten-5">Journeys to/from Rome at arrival and departure. These will need to be arranged independently;</a>
+  <a href="#!" class="collection-item black-text indigo lighten-5">Insurance;</a>
+  <a href="#!" class="collection-item black-text indigo lighten-5">Public transport from Frascati to the centre of Rome and in Rome;</a>
+  <a href="#!" class="collection-item black-text indigo lighten-5">Meals other than those officially offered in the Programme. In particular, participants will need to pay for all their dinners, their breakfast in Rome, lunch at the ENEA Frascati centre and any extra expenses that they might wish to make. The Organising Committee will always suggest places to eat, according to students' needs.</a>
+  <a href="http://www.ai-sf.it/joomla/it/membri" class="collection-item black-text">Note: if you are Italian and you are not an IAPS/AISF member yet you can become an AISF member while registering for this event: you need to fill in this module and make a single payment including both the quotes.<span class="badge indigo white-text">module</span></a>
+  <a href="#!" class="collection-item black-text">Please note that unfortunately we are not able to provide scholarships and/or bursaries for any students at this time.</a>
+</div>
 
-  *   In order to enroll to the event you must be an IAPS member.
-
-  *   We expect to select 40 students, of whom approximately half will be Italian.
-
-  *   The participation fee is fixed at €100 per person. Such fee will cover the cost of accommodation in both L'Aquila and Rome, breakfast at the Federico II Hotel, 2 lunches at the LNGS, IAPS clothing, a day-trip to the Campo Imperatore resort, travel from Rome to L’Aquila (and viceversa), as well as travel from the Federico II Hotel to the Gran Sasso (and viceversa) during the days of our visits. Please notice that participation fees do not cover the following:
-
-     *   Journeys to/from Rome at arrival and departure. These will need to be arranged independently;
-
-     *   Insurance;
-
-     *   Public transport from Frascati to the centre of Rome and in Rome;
-
-     *   Meals other than those officially offered in the Programme. In particular, participants will need to pay for all their dinners, their breakfast in Rome, lunch at the ENEA Frascati centre and any extra expenses that they might wish to make. The Organising Committee will always suggest places to eat, according to students' needs.
-
-Note: if you are Italian and you are not an IAPS/AISF member yet you can become an AISF member while registering for this event: you need to fill in <a class="indigo-text" href="http://www.ai-sf.it/joomla/it/membri">this</a> module and make a single payment including both the quotes.
-
-  *   Please note that unfortunately we are not able to provide scholarships and/or bursaries for any students at this time.
   </div>
   </div>
 
