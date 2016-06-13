@@ -28,7 +28,7 @@ save_as: index.html
       <div class="icon-block">
         <h2 class="center indigo-text text-darken-2"> <i class="mdi-action-event"></i></h2>
         <h5 class="center">When</h5>
-        <p class="light">Between the 20th and the 24th of September 2016 (dates to be confirmed).</p>
+        <p class="light">Between the 4th and the 8th of October 2016.</p>
       </div>
     </div>
     <div class="col s12 m4">
@@ -55,7 +55,7 @@ save_as: index.html
       </li>
 
       <li>
-        <!-- <img src="{filename}/images/DAFNE.jpg"> -->
+        <img src="{filename}/images/air_frascati.jpg">
         <div class="caption center-align">
           <h3>INFN</h3>
           <h5 class="light grey-text text-lighten-3">Italian National Agency for Nuclear Physics</h5>

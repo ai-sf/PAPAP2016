@@ -93,9 +93,9 @@ FOOTER_CONTACT = collections.OrderedDict([
 ])
 
 MENUITEMS= [('AISF','http://ai-sf.it')]
-OGURL = "http://www.ai-sf.it/apap"
+OGURL = "http://www.ai-sf.it/papap"
 
-NICKNAME="apap" # Prefix of the Name Page
+NICKNAME="papap" # Prefix of the Name Page
 
 FOOTER_COLOR = "indigo"
 FOOTER_COLOR_TEXT = "white"
