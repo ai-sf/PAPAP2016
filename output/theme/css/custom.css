@@ -1,0 +1,40 @@
+iframe.event-location {
+    frameborder="0";
+    scrolling="no";
+    marginheight="0";
+    marginwidth="0";
+    border: 1px solid black;
+}
+
+img#sponsor-logo {
+    width:100%;
+    display:inline;
+}
+
+@media only screen and (max-width : 540px) {
+    nav .brand-logo {
+	font-size: 1.2rem; }
+}
+
+@media only screen and (max-width : 300px) {
+    nav .brand-logo {
+	font-size: 1.1rem; }
+}
+
+#fotodilieto {
+    max-height:100%;
+    width:auto;
+    float:left;
+}
+
+#fotocentrata {
+    max-height:100%;
+    width:auto;
+    float:centre;
+}
+
+#fotocella {
+    max-height:100%;
+    width:auto;
+    float:centre:
+}
