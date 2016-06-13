@@ -35,7 +35,7 @@ save_as: index.html
       <div class="icon-block">
         <h2 class="center indigo-text text-darken-2"> <i class="mdi-action-room"></i></h2>
         <h5 class="center">Where</h5>
-        <p class="light">In central Italy. Students will meet in Rome and possibly visit the INFN laboratories in Frascati on the first day. They will then move to the city of L'Aquila to spend two days at the LNGS and GSSI facilities.</p>
+        <p class="light">In central Italy. Students will meet in Rome and visit the INFN laboratories in Frascati on the first day. They will then move to the city of L'Aquila to spend two days at the LNGS and GSSI facilities.</p>
       </div>
     </div>
   </div>
@@ -53,15 +53,15 @@ save_as: index.html
           <h5 class="light grey-text text-lighten-3">Gran Sasso National Laboratory</h5>
         </div>
       </li>
-      <!--
+
       <li>
-        <img src="{filename}/images/2015_day2_007_2.jpg">
+        <!-- <img src="{filename}/images/DAFNE.jpg"> -->
         <div class="caption center-align">
-          <h3>ENEA</h3>
-          <h5 class="light grey-text text-lighten-3">Italian National Agency for New Technologies, Energy and Sustainable Economic Development</h5>
+          <h3>INFN</h3>
+          <h5 class="light grey-text text-lighten-3">Italian National Agency for Nuclear Physics</h5>
         </div>
       </li>
-      -->
+
       <li>
         <img src="{filename}/images/2015_day4_007_2.jpg"> <!-- random image -->
         <div class="caption right-align">

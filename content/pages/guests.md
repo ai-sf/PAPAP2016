@@ -25,7 +25,7 @@ image1description: iaps@GranSasso 2015
 
 * The Gran Sasso Science Institute (GSSI) is a modern institution focusing on astroparticle physics, mathematics and modelling. Its location close to the LNGS offers its members a unique opportunity to access world-class experiments within the mountain. The GSSI has an active PhD programme in Physics and will be displaying some of the work that students do there.
 
-* During this year’s event, we also hope to be able to visit the INFN laboratories in Frascati, near Rome; however, the participation of INFN in our programme is <b>not yet confirmed</b> and hence will not be described in detail on this webpage. Future updates on the subject will be provided when possible.
+* During this year’s event, we also hope to be able to visit the INFN laboratories in Frascati, near Rome; however, the participation of INFN in our programme is <b>not yet confirmed</b> and hence will not be described in detail on this webpage. Future updates on the subject will be provided when possible. DA AGGIORNARE
 
 * During our visits, we will be offered a large number of talks, as in the 2015 edition. In particular, we expect to have overviews of all the major experiments running at the LNGS. The experience can be overwhelming! We will provide further details of our speakers as they become available.<!-- </p> -->
   <!--   </div> -->
