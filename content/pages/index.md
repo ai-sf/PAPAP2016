@@ -10,7 +10,7 @@ image1: 2015_day3_005_big2.jpg
 image1description: iaps@GranSasso 2015
 image2: Aquila2_big2.jpg
 image2description: wikimedia credits
-subtitle: We are organizing the event
+subtitle: REGISTRATION PERIOD: 1-10 JULY
 url: index.html
 save_as: index.html
 
@@ -86,7 +86,7 @@ save_as: index.html
         <h3><i class="mdi-content-send indigo-text text-darken-2"></i></h3>
         <!-- <h4>Qualche informazione</h4> -->
         <p class="left-align light">
-The Particle & Astroparticle Physics Programme, now at its second edition, is organised by the Italian Association of Physics Students and is open to all members of the International Assocation of Physics Students. The event will bring 40 students to visit some of the most advanced research facilities in Europe, with a focus on astroparticle physics and one key mission: to foster enthusiasm in the minds of young physicists.
+The Particle & Astroparticle Physics Programme, now at its second edition, is organised by the Italian Association of Physics Students and is open to all members of the International Association of Physics Students. The event will bring 40 students to visit some of the most advanced research facilities in Europe, with a focus on astroparticle physics and one key mission: to foster enthusiasm in the minds of young physicists.
 </p>
       </div>
     </div>

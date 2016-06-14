@@ -80,14 +80,14 @@ FOOTER_DESCRIPTION = "The Associazione Italiana Studenti di Fisica (AISF) gather
 
 # OrderedDict in this case is more useful than the default dict structure.
 FOOTER_CONNECT = collections.OrderedDict([
-    ('Organizing Committee','lightsoftuscany@ai-sf.it'),
+    ('Organizing Committee','astroparticles@ai-sf.it'),
     ('AISF EC','esecutivo@ai-sf.it'),
     ('IAPS EC','ec@iaps.info'),
     ('Technical support','postmaster@ai-sf.it'),
 ])
 
 FOOTER_CONTACT = collections.OrderedDict([
-    ('Facebook Event Page','https://www.facebook.com/events/895616630487424/'),
+    # ('Facebook Event Page','https://www.facebook.com/events/895616630487424/'),
     ('AISF Website','http://www.ai-sf.it/joomla/it'),
     ('IAPS Website','http://www.iaps.info'),
 ])
