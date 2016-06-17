@@ -47,23 +47,23 @@ image1description: iaps@GranSasso 2015
 	    </thread>
 	    <tbody>
 	      <tr>
-		<td>4/10 - Day 1</td>
+		<td>3/10 - Day 1</td>
 		<td>Arrival and dinner in Rome</td>
 	      </tr>
 	      <tr>
-		<td>5/10 - Day 2</td>
+		<td>4/10 - Day 2</td>
 		<td>INFN Frascati + transfer to L'Aquila</td>
 	      </tr>
 	      <tr>
-		<td>6/10 - Day 3</td>
+		<td>5/10 - Day 3</td>
 		<td>LNGS (Research center + Underground Facility)</td>
 	      </tr>
 	      <tr>
-		<td>7/10 - Day 4</td>
+		<td>6/10 - Day 4</td>
 		<td>GSSI + Poster session and talks</td>
 	      </tr>
 	      <tr>
-		<td>8/10 - Day 5</td>
+		<td>7/10 - Day 5</td>
 		<td>Transfer to Rome and visit of the city</td>
 	      </tr>
 	    </tbody>
@@ -74,12 +74,11 @@ image1description: iaps@GranSasso 2015
 	<div class="col s12">
 	  <h5>In detail:</h5>
 	  <ul class="tabs">
-	    <li class="tab col m3 s12"><a class="indigo-text " href="#tuesday">Tuesday</a></li>
-	      <li class="tab col m3 s12"><a class="indigo-text " href="#wednesday">Wednesday</a></li>
-            <li class="tab col m3 s12"><a class="indigo-text" href="#thursday">Thursday</a></li>
-            <li class="tab col m3 s12"><a class="indigo-text" href="#friday">Friday</a></li>
-            <li class="tab col m3 s12"><a class="indigo-text" href="#saturday">Saturday</a></li>
-            <li class="tab col m3 s12"><a class="indigo-text" href="#sunday">Sunday</a></li>	  
+	    <li class="tab col m3 s12"><a class="indigo-text " href="#tuesday">Monday</a></li>
+	      <li class="tab col m3 s12"><a class="indigo-text " href="#wednesday">Tuesday</a></li>
+            <li class="tab col m3 s12"><a class="indigo-text" href="#thursday">Wednesday</a></li>
+            <li class="tab col m3 s12"><a class="indigo-text" href="#friday">Thursday</a></li>
+            <li class="tab col m3 s12"><a class="indigo-text" href="#saturday">Friday</a></li>	  
 	    <div class="indicator indigo" style="z-index:1"></div>
 	  </ul>
 	</div>

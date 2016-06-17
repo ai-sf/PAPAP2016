@@ -28,7 +28,7 @@ save_as: index.html
       <div class="icon-block">
         <h2 class="center indigo-text text-darken-2"> <i class="mdi-action-event"></i></h2>
         <h5 class="center">When</h5>
-        <p class="light">Between the 4th and the 8th of October 2016.</p>
+        <p class="light">Between the 3th and the 7th of October 2016.</p>
       </div>
     </div>
     <div class="col s12 m4">
