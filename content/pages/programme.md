@@ -23,7 +23,7 @@ image1description: iaps@GranSasso 2015
 	  <p>During the Programme, 40 students will be visiting the National Gran Sasso Laboratory and the Gran Sasso Science Institute in central Italy and the INFN laboratories in Frascati, Rome. Participants will meet in Rome, then move to the city of L'Aquila by coach and eventually return to Rome for departure. The event will have a focus on astroparticle physics, but a number of other topics will be touched upon, including theoretical physics, nuclear physics, high energy collisions and cosmology. Students will be expected to have a basic understanding of these subjects in order to effectively make the most of the programme.</p>
 
 
-	  <p>The complete event programme for 2016 can be downloaded <a class="indigo-text" href="files/APAP_Programme.pdf">here</a>.</p>
+	  <p>The complete event programme for 2016 can be downloaded <a class="indigo-text" href="files/PAPAP_Programme.pdf">here</a>.</p>
 
 
 	  <p>A quick visualisation of the programme schedule is shown below:</p>
@@ -47,23 +47,23 @@ image1description: iaps@GranSasso 2015
 	    </thread>
 	    <tbody>
 	      <tr>
-		<td>3/10 - Day 1</td>
+		<td>2/10 - Day 1</td>
 		<td>Arrival and dinner in Rome</td>
 	      </tr>
 	      <tr>
-		<td>4/10 - Day 2</td>
+		<td>3/10 - Day 2</td>
 		<td>INFN Frascati + transfer to L'Aquila</td>
 	      </tr>
 	      <tr>
-		<td>5/10 - Day 3</td>
+		<td>4/10 - Day 3</td>
 		<td>LNGS (Research center + Underground Facility)</td>
 	      </tr>
 	      <tr>
-		<td>6/10 - Day 4</td>
+		<td>5/10 - Day 4</td>
 		<td>GSSI + Poster session and talks</td>
 	      </tr>
 	      <tr>
-		<td>7/10 - Day 5</td>
+		<td>6/10 - Day 5</td>
 		<td>Transfer to Rome and visit of the city</td>
 	      </tr>
 	    </tbody>

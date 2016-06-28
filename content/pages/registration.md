@@ -30,7 +30,7 @@ image1description: iaps@GranSasso 2015
 	    <p>Please read the terms and conditions below. Please note that, upon registration, you will be asked for personal details (such as name, surname, date of birth, university affiliation, passport number etc.) and a 100 word text to describe your motivation to take part in the event. We recommend that you take this element of the selection very seriously (expressing your interest with clarity and good spelling!), as it will be taken into consideration when selecting applicants.</p>
 
       <h4>Posters and Talks</h4>
-<p>A set of student talks and posters will be held at the GSSI and students of all levels and specialisations are invited to apply to present their research work, whether this is part of a thesis project (at bachelor, master or PhD level) or is an outcome of a summer research programme. A number of prizes will be awarded by the LNGS (see the <a class="indigo-text" href="files/APAP_Programme.pdf">Programme</a> for details).</p>
+<p>A set of student talks and posters will be held at the GSSI and students of all levels and specialisations are invited to apply to present their research work, whether this is part of a thesis project (at bachelor, master or PhD level) or is an outcome of a summer research programme. A number of prizes will be awarded by the LNGS (see the <a class="indigo-text" href="files/PAPAP_Programme.pdf">Programme</a> for details).</p>
 
 <p>To submit an abstract, both for a talk or a poster, use this templates:
 <a href="files/template_TeX.tar.gz" class="collection-item black-text">
