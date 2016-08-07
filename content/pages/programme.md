@@ -48,7 +48,7 @@ image1description: iaps@GranSasso 2015
 	    <tbody>
 	      <tr>
 		<td>2/10 - Day 1</td>
-		<td>Arrival and dinner in Rome</td>
+		<td>Arrival and opening cerimony in Rome, Tor Vergata</td>
 	      </tr>
 	      <tr>
 		<td>3/10 - Day 2</td>

@@ -27,6 +27,8 @@ image1description: iaps@GranSasso 2015
 
 * The National Institute for Nuclear Physics (INFN) is the leading institution for nuclear and subnuclear research in Italy.  Frascati laboratories host a number of experiments, ranging from gravitational wave detection to neutrino physics.  
 
+* The University of Rome Tor Vergata will host us for the opening cerimony, with talks and sessions about the research performed at the facility.
+
 * During our visits, we will be offered a large number of talks, as in the 2015 edition. In particular, we expect to have overviews of all the major experiments running at the LNGS. The experience can be overwhelming! We will provide further details of our speakers as they become available.<!-- </p> -->
   <!--   </div> -->
   <!-- </div> -->
@@ -94,10 +96,51 @@ image1description: iaps@GranSasso 2015
       </div>
     </div>
   </div>
+
+  <div class="row">
+    <div class="col s12">
+      <div class="col s12 m7">
+	<div class="card">
+	  <div class="card-image">
+            <img src="{filename}/images/sponsors/logo_tor_vergata.jpg">
+            <!-- <span class="card-title">University of Rome Tor Vergata</span> -->
+	  </div>
+	  <div class="card-content">
+            <p>The University of Rome - Tor Vergata is one of the main facilities for research and education in the Italian capital city.</p>
+	  </div>
+	  <div class="card-action">
+            <a class="indigo-text" href="https://www.fisica.uniroma2.it/en">Website</a>
+	    <a class="indigo-text" href="https://www.openstreetmap.org/search?query=41.85362%2C12.60546#map=17/41.85362/12.60546">MAP</a>
+	  </div>
+	</div>
+      </div>
+    </div>
+  </div>
 </div>
 
 <div>
   <h4>Accommodation</h4>
+
+  <div class="row">
+  <div class="col s12">
+    <div class="col s12 m7">
+  <div class="card">
+    <div class="card-image">
+          <!-- <img src="{filename}/images/"> -->
+          <span class="card-title">Hotel ...</span>
+    </div>
+    <div class="card-content">
+          <p>Accommodation in Rome is granted at the Hotel Laurence, in Via Pietro Baragiola 18/24.</p>
+    </div>
+    <div class="card-action">
+          <a class="indigo-text" href="http://www.hotellaurence.com">Website</a>
+      <a class="indigo-text" href="https://www.openstreetmap.org/way/420910200#map=18/41.84938/12.62288">MAP</a>
+    </div>
+  </div>
+    </div>
+  </div>
+</div>
+
     <div class="row">
     <div class="col s12">
       <div class="col s12 m7">
@@ -117,6 +160,7 @@ image1description: iaps@GranSasso 2015
       </div>
     </div>
   </div>
+
 </div>
 
   <!-- <h4>Opening Ceremony</h4> -->
