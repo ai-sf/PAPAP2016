@@ -404,7 +404,6 @@ image1description: iaps@GranSasso 2015
   <a href="#!" class="collection-item black-text">Participation fees are fixed at €120 for each applicant. Such fee will cover the cost of accommodation in both L`Aquila and Rome, breakfasts at the Federico II Hotel, one buffet lunch at the LNGS, one lunch at the GSSI canteen, AISF-IAPS t-shirts, one travel ticket in the Rome/Frascati area, travel from Rome to L’Aquila (and vice versa), as well as travel from the Federico II Hotel to the LNGS. Please notice that participation fees <b>do not cover</b> the following:</a>
   <a href="#!" class="collection-item black-text indigo lighten-5">Journeys to/from Rome at arrival and departure. These will need to be arranged independently;</a>
   <a href="#!" class="collection-item black-text indigo lighten-5">Insurance;</a>
-  <a href="#!" class="collection-item black-text indigo lighten-5">Public transport from Frascati to the centre of Rome and in Rome;</a>
   <a href="#!" class="collection-item black-text indigo lighten-5">Meals other than those officially offered in the Programme. When useful, the Organising Committee
 will always suggest places to eat.</a>
   <a href="http://www.ai-sf.it/joomla/it/membri" class="collection-item black-text">Note: if you are Italian and you are not an IAPS/AISF member yet you can become an AISF member while registering for this event: you need to fill in this module and make a single payment including both the quotes.<span class="badge indigo white-text">module</span></a>

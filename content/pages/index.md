@@ -10,7 +10,7 @@ image1: 2015_day3_005_big2.jpg
 image1description: iaps@GranSasso 2015
 image2: Aquila2_big2.jpg
 image2description: wikimedia credits
-subtitle: REGISTRATION PERIOD: 1-10 JULY
+subtitle: 2-6 October 2016
 url: index.html
 save_as: index.html
 
@@ -35,7 +35,7 @@ save_as: index.html
       <div class="icon-block">
         <h2 class="center indigo-text text-darken-2"> <i class="mdi-action-room"></i></h2>
         <h5 class="center">Where</h5>
-        <p class="light">In central Italy. Students will meet in Rome and visit the INFN laboratories in Frascati on the first day. They will then move to the city of L'Aquila to spend two days at the LNGS and GSSI facilities.</p>
+        <p class="light">In central Italy. Students will meet in Rome and visit the University of Rome - Tor Vergata. On the second day, they will visit INFN laboratories in Frascati. They will then move to the city of L'Aquila to spend two days at the LNGS and GSSI facilities.</p>
       </div>
     </div>
   </div>
