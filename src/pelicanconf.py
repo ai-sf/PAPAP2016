@@ -101,3 +101,5 @@ FOOTER_COLOR = "indigo"
 FOOTER_COLOR_TEXT = "white"
 #COLOR = "purple-text text-darken-2"
 COLOR = "indigo-text indigo lighten-5 text-darken-4"
+
+OUTPUT_PATH = '../'
