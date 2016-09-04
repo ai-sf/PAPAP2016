@@ -92,38 +92,3 @@ The Particle & Astroparticle Physics Programme, now at its second edition, is or
     </div>
   </div>
 </div>
-<!-- <div class="parallax-container valign-wrapper"> -->
-<!--   <div class="section no-pad-bot"> -->
-<!--     <div class="container"> -->
-<!--       <div class="row center"> -->
-<!--         <h5 class="header col s12 orange-text light">ENEA</h5> -->
-<!--       </div> -->
-<!--     </div> -->
-<!--   </div> -->
-<!--   <div class="parallax"><img src="{filename}/images/2015_day2_007.jpg" -->
-<!--   alt="the VIRGO interferometer"></div> -->
-<!-- </div> -->
-
-<!-- <div class="parallax-container valign-wrapper"> -->
-<!--   <div class="section no-pad-bot"> -->
-<!--     <div class="container"> -->
-<!--       <div class="row center"> -->
-<!--         <h5 class="header col s12 orange-text light">LNGS</h5> -->
-<!--       </div> -->
-<!--     </div> -->
-<!--   </div> -->
-<!--   <div class="parallax"><img src="{filename}/images/2015_day3_005.jpg" -->
-<!--   alt="the VIRGO interferometer"></div> -->
-<!-- </div> -->
-
-<!-- <div class="parallax-container valign-wrapper"> -->
-<!--   <div class="section no-pad-bot"> -->
-<!--     <div class="container"> -->
-<!--       <div class="row center"> -->
-<!--         <h5 class="header col s12 orange-text light">GSSI</h5> -->
-<!--       </div> -->
-<!--     </div> -->
-<!--   </div> -->
-<!--   <div class="parallax"><img src="{filename}/images/2015_day4_006.jpg" -->
-<!--   alt="the VIRGO interferometer"></div> -->
-<!-- </div> -->
