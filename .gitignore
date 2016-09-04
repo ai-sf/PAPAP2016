@@ -6,5 +6,4 @@
 *.out
 *.py[cod]
 *.old
-themes/materializecss
 cache
