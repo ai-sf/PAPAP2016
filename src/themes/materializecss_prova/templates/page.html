@@ -1,0 +1,82 @@
+{% extends "base.html" %}
+
+<!-- metadata -->
+{% block metadata %}
+{{ super() }}
+{% if page.keywords %}        <meta name="keywords" content="{{page.keywords}}" />
+{% endif %}
+{% if page.description %}        <meta name="description" content="{{page.description}}" />
+{% endif %}
+{% if page.tag %}        <meta name="tags" content="{{page.tag}}" />
+{% endif %}
+{% if page.ogtitle %}        <meta property="og:title" content="{{page.ogtitle}}" />
+{% endif %}
+{% if page.ogdescription %}        <meta property="og:description" content="{{page.ogdescription}}" />
+{% endif %}
+{% if page.url %}        <meta property="og:url" content="http://www.ai-sf.it/lot/" />
+{% endif %}
+{% endblock %}
+
+<!-- title -->
+{% block title %}
+<h1 class="header center orange-text text-lighten-2">{{ page.title }}</h1>
+{% if page.subtitle %}
+<div class="row center">
+  <h5 class="header col s12 light">{{page.subtitle}}</h5>
+</div>
+{% block buttonfile %}
+{% if page.buttonfile %}
+{% if page.buttondescription %}
+  <div class="row center">
+    <a href="{{ SITEURL }}/files/{{page.buttonfile}}" id="download-button" class="btn-large waves-effect waves-light teal lighten-1">{{page.buttondescription}}</a><br>
+  </div>
+{% endif %}
+{% endif %}
+{% endblock %}
+{% endif %}
+{% endblock %}
+
+
+{% block toptitle %}
+{% if page.url != "index.html" %}
+{{ NICKNAME }} - {{ page.title }}
+{% else %}
+{{ page.title }}
+{% endif %}
+{% endblock %}
+
+<!-- content -->
+{% block content %}
+<div class="container">
+<!-- <section id="content" class="body"> -->
+<!--     <h2 class="entry-title">{{ page.title }}</h2> -->
+<!--     {% import 'translations.html' as translations with context %} -->
+<!--     {{ translations.translations_for(page) }} -->
+<!--     {% if PDF_PROCESSOR %}<a href="{{ SITEURL }}/pdf/{{ page.slug }}.pdf">get -->
+<!--     the pdf</a>{% endif %} -->
+{{ page.content }}
+</div>
+{% endblock %}
+
+<!-- parallax images -->
+{% block image1 %}
+{% if page.image1 %}
+{% if page.image1description %}
+<div class="parallax"><img src="{{ SITEURL }}/images/{{page.image1}}" alt="{{page.image1description}}"></div>
+{% else %}
+<div class="parallax"><img src="{{ SITEURL }}/images/{{page.image1}}" alt=""></div>
+{% endif %}
+{% endif %}
+{% endblock %}
+
+{% block image2 %}
+{% if page.image2 %}
+<div class="parallax-container valign-wrapper">
+  {% if page.image2description %}
+  <div class="parallax"><img src="{{ SITEURL }}/images/{{page.image2}}" alt="{{page.image2description}}"></div>
+  {% else %}
+  <div class="parallax"><img src="{{ SITEURL }}/images/{{page.image2}}" alt=""></div>
+  {% endif %}
+</div>
+{% endif %}
+{% endblock %}

@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block title %}{{ page.title }}{% endblock %}
+{% block content %}
+<section id="content" class="body">
+    <h2 class="entry-title">{{ page.title }}</h2>
+    {% import 'translations.html' as translations with context %}
+    {{ translations.translations_for(page) }}
+    {% if PDF_PROCESSOR %}<a href="{{ SITEURL }}/pdf/{{ page.slug }}.pdf">get
+    the pdf</a>{% endif %}
+    {{ page.content }}
+
+    {% for album, images in page.gallery.items() %}
+    <div class="imggrid_display">
+      <h2 style="text-align:center"><a id="{{ album }}">{{ album }}</a></h2>
+      <ul class="imggrid">
+      {% for image in images %}
+      <li><a href="{{ SITEURL }}/images/gallery/{{album}}/{{ image }}" title="{{ image }}"><img src="{{ SITEURL }}/images/gallery200x200/{{album}}/{{ image }}" alt="{{ image }}"></a></li>
+      {% endfor %}
+    </ul>
+    {% endfor %}
+    </div>
+
+</section>
+{% endblock %}

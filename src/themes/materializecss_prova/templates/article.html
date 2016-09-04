@@ -1,0 +1,59 @@
+{% extends "base.html" %}
+{% block metadata %}
+{{ super() }}
+{% if article.keyword %}       <meta name="keywords" content="{{article.keyword}}" />
+{% endif %}
+{% if article.description %}        <meta name="description" content="{{article.description}}" />
+{% endif %}
+{% if article.tags %}        <meta name="tags" content="{{article.tags}}" />
+{% endif %}
+{% endblock %}
+{% block title %}{{ article.title|striptags }}{% endblock %}
+{% block content %}
+<section id="content" class="body">
+  <article>
+    <header>
+      <h2 class="entry-title">
+        <a href="{{ SITEURL }}/{{ article.url }}" rel="bookmark"
+           title="Permalink to {{ article.title|striptags }}">{{ article.title}}</a></h2>
+      {% include 'twitter.html' %}
+    </header>
+
+    <div class="entry-content">
+      {% include 'article_infos.html' %}
+      {{ article.content }}
+    </div><!-- /.entry-content -->
+
+    {% if article.galleryimages %}
+    <br>
+    
+    
+    <div class="imggrid_display">
+      <h2 style="text-align:center"><a href="{{ SITEURL }}/pages/gallery.html#{{ article.album }}">{{ article.album }} gallery</a></h2>
+      <ul class="imggrid">
+    {% for image in article.galleryimages %}
+    <li><a href="{{ SITEURL }}/images/gallery/{{ article.album }}/{{ image }}"><img src="{{ SITEURL }}/images/gallery200x200/{{ article.album }}/{{ image }}" alt="{{ image }}"></a></li>
+    {% endfor %}
+      </ul>
+    </div>
+
+    {% if DISQUS_SITENAME and SITEURL and article.status != "draft" %}
+    <div class="comments">
+      <h2>Comments !</h2>
+      <div id="disqus_thread"></div>
+      <script type="text/javascript">
+        var disqus_identifier = "{{ article.url }}";
+        var disqus_url = "{{ SITEURL }}/{{ article.url }}";
+        (function() {
+        var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+        dsq.src = 'http://{{ DISQUS_SITENAME }}.disqus.com/embed.js';
+        (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+      </script>
+    </div>
+    {% endif %}
+    {% endif %}
+
+  </article>
+</section>
+{% endblock %}
