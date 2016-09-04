@@ -81,37 +81,33 @@
     {% block image2 %}{% endblock %}
 
     
-  <footer class="page-footer teal">
+  <footer class="page-footer {{ FOOTER_COLOR }}">
     <div class="container">
       <div class="row">
         <div class="col l6 s12">
-          <h5 class="white-text">{{ FOOTER_ABOUT }}</h5>
-          <p class="grey-text text-lighten-4">{{ FOOTER_DESCRIPTION }}</p>
+          <h5 class="{{ FOOTER_COLOR_TEXT }}-text">{{ FOOTER_ABOUT }}</h5>
+          <p class="{{ FOOTER_COLOR_TEXT }}-text">{{ FOOTER_DESCRIPTION }}</p>
 
 
         </div>
         <div class="col l3 s12">
-          <h5 class="white-text">Contact</h5>
+          <h5 class="{{ FOOTER_COLOR_TEXT }}-text">Contact</h5>
           <ul>
 	    {% if FOOTER_CONNECT %}
 	    {% for entry in FOOTER_CONNECT %}
-	    <li><a class="white-text" href="mailto:{{ FOOTER_CONNECT[entry] }}">{{ entry }}</a></li>
+	    <li><a class="{{ FOOTER_COLOR_TEXT }}-text" href="mailto:{{ FOOTER_CONNECT[entry] }}">{{ entry }}</a></li>
 	    {% endfor %}
 	    {% endif %}
           </ul>
         </div>
         <div class="col l3 s12">
-          <h5 class="white-text">Connect</h5>
+          <h5 class="{{ FOOTER_COLOR_TEXT }}-text">Connect</h5>
           <ul>
 	    {% if FOOTER_CONTACT %}
 	    {% for entry in FOOTER_CONTACT %}
-	    <li><a class="white-text" href="{{ FOOTER_CONTACT[entry] }}">{{ entry }}</a></li>
+	    <li><a class="{{ FOOTER_COLOR_TEXT }}-text" href="{{ FOOTER_CONTACT[entry] }}">{{ entry }}</a></li>
 	    {% endfor %}
 	    {% endif %}
-            <!-- <li><a class="white-text" href="http://www.ai-sf.it/joomla/it">Website</a></li> -->
-            <!-- <li><a class="white-text" href="http://www.facebook.com/ass.it.stud.fis">Pagina Facebook</a></li> -->
-            <!-- <li><a class="white-text" href="https://www.facebook.com/groups/598719826916423/">Gruppo Facebook</a></li> -->
-            <!-- <li><a class="white-text" href="https://twitter.com/aisf_fisica">Twitter</a></li> -->
           </ul>
         </div>
       </div>
