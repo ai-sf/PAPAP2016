@@ -5,7 +5,7 @@ from time import strftime, localtime
 import collections
 
 SITENAME = "PAPAP"
-AUTHOR = 'Giulio Pasqualetti'
+AUTHOR = 'Vittorio Erba and Giulio Pasqualetti'
 #SITEURL = ''
 
 RELATIVE_URLS = True
@@ -21,18 +21,6 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-'''
-# Blogroll
-LINKS =  (('Pelican', 'http://getpelican.com/'),
-          ('Python.org', 'http://python.org/'),
-          ('Jinja2', 'http://jinja.pocoo.org/'),
-          ('You can modify those links in your config file', '#'),)
-
-# Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
-'''
-
 DEFAULT_PAGINATION = False
 
 # Uncomment following line if you want document-relative URLs when developing
@@ -43,16 +31,11 @@ DELETE_OUTPUT_DIRECTORY = True
 DISPLAY_PAGES_ON_MENU = True
 
 PATH = 'content/'
+OUTPUT_PATH = '../'
 
 STATIC_PATHS = ['images','files','videos']
 
 THEME = "themes/materializecss"
-
-#MENUITEMS = [("personal", "https://ilfugiuliopascal.hopper.pw/")]
-#MENUITEMS = [("personal area","https://ilfugiuliopascal.hopper.pw/links.html")]
-
-#PLUGINS = ['plugins.gallery','plugins.sitemap',]
-#PLUGINS = ['plugins.gallery',] no longer used
 
 # SITEMAP = {
 #     'format': 'xml',
@@ -88,12 +71,12 @@ FOOTER_CONNECT = collections.OrderedDict([
 
 FOOTER_CONTACT = collections.OrderedDict([
     # ('Facebook Event Page','https://www.facebook.com/events/895616630487424/'),
-    ('AISF Website','http://www.ai-sf.it/joomla/it'),
+    ('AISF Website','http://ai-sf.it'),
     ('IAPS Website','http://www.iaps.info'),
 ])
 
 MENUITEMS= [('AISF','http://ai-sf.it')]
-OGURL = "http://www.ai-sf.it/papap"
+OGURL = "http://papap.ai-sf.it/"
 
 NICKNAME="papap" # Prefix of the Name Page
 
@@ -101,5 +84,3 @@ FOOTER_COLOR = "indigo"
 FOOTER_COLOR_TEXT = "white"
 #COLOR = "purple-text text-darken-2"
 COLOR = "indigo-text indigo lighten-5 text-darken-4"
-
-OUTPUT_PATH = '../'
