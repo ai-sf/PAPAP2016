@@ -145,16 +145,17 @@ image1description: iaps@GranSasso 2015
     <div class="col s12">
       <div class="col s12 m7">
   	<div class="card">
-  	  <div class="card-image">
-            <!-- <img src="{filename}/images/"> -->
-            <span class="card-title">Hotel Federico II</span>
-  	  </div>
-  	  <div class="card-content">
-            <p>Accommodation in L'Aquila is granted at the Hotel Federico II, in Via Strinella 6, L'Aquila. Rooms provided are quadruple.</p>
-  	  </div>
-  	  <div class="card-action">
-            <a class="indigo-text" href="http://www.hotelfedericosecondo.it/en">Website</a>
-  	    <a class="indigo-text" href="https://www.openstreetmap.org/way/124813349#map=16/42.3459/13.4045">MAP</a>
+    <div class="card-image">
+          <!-- <img src="{filename}/images/"> -->
+          <span class="card-title">Hotel Castello</span>
+    </div>
+    <div class="card-content">
+          <p>Accommodation in L'Aquila is granted at the Hotel Castello, in  Battaglione Alpini Square, L'Aquila.</p>
+    </div>
+    <div class="card-action">
+          <a class="indigo-text" href="http://www.hotelcastelloaq.com">Website</a>
+      <a class="indigo-text" href="https://www.openstreetmap.org/node/3667828406">MAP</a>
+    </div>
   	  </div>
   	</div>
       </div>

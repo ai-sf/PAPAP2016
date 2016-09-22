@@ -10,7 +10,7 @@ image1: 2015_day3_005_big2.jpg
 image1description: iaps@GranSasso 2015
 image2: Aquila2_big2.jpg
 image2description: wikimedia credits
-subtitle: 2-6 October 2016
+subtitle: 2-6 October 2016 
 url: index.html
 save_as: index.html
 
