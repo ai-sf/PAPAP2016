@@ -52,11 +52,11 @@ image1description: iaps@GranSasso 2015
 	      </tr>
 	      <tr>
 		<td>3/10 - Day 2</td>
-		<td>INFN Frascati + transfer to L'Aquila</td>
+		<td>INFN Frascati + transfer to L'Aquila <a class="indigo-text" href="http://edu.lnf.infn.it/guided-tours/?lang=en">INFO</a></td>
 	      </tr>
 	      <tr>
 		<td>4/10 - Day 3</td>
-		<td>LNGS (Research center + Underground Facility)</td>
+		<td>LNGS (Research center + Underground Facility) <a class="indigo-text" href="https://agenda.infn.it/conferenceDisplay.py?ovw=True&confId=12089">INFO</a></td>
 	      </tr>
 	      <tr>
 		<td>5/10 - Day 4</td>
@@ -187,7 +187,7 @@ image1description: iaps@GranSasso 2015
         <tbody>
         <tr>
           <td>09:00 - 09:30</td>
-          <td>Welcome (Prof. Stefano Ragazzi, Director of LNGS)</td>
+          <td>Welcome (Alba Formicola)</td>
         </tr>
         <tr>
           <td>09:30 - 10:00</td>
@@ -195,7 +195,7 @@ image1description: iaps@GranSasso 2015
         </tr>
         <tr>
           <td>10:00 - 10:30</td>
-          <td>LUNA (Alba Formicola)</td>
+          <td>LUNA (Izabela Anna Kochanek)</td>
         </tr>
         <tr>
           <td>10:30 - 10:45</td>
@@ -240,55 +240,55 @@ image1description: iaps@GranSasso 2015
         </thread>
         <tbody>
         <tr>
-          <td>09:00 - 09:30</td>
+          <td>09:15 - 09:45</td>
           <td>Welcome (Prof. Eugenio Coccia, Dean of the GSSI)</td>
         </tr>
         <tr>
-          <td>09:30 - 09:55</td>
-          <td>Solar neutrino oscillations (Valentina Biancacci)</td>
-        </tr>
-        <tr>
-          <td>09:55 - 10:20</td>
+          <td>09:45 - 10:10</td>
           <td>Neutrinos from the Galactic Plane using ANTARES (Alessandra Gioventù)</td>
         </tr>
         <tr>
-          <td>10:20 - 10:45</td>
+          <td>10:10 - 10:35</td>
           <td>Distances in cosmology and supernovae type Ia (Matteo De Leone)</td>
         </tr>
         <tr>
-          <td>10:45 - 11:15</td>
+          <td>10:35 - 11:05</td>
           <td>Coffee break</td>
         </tr>
         <tr>
-          <td>11:15 - 11:40</td>
+          <td>11:05 - 11:30</td>
           <td>SN 2012AW: Type II-P Supernova (Alessandra Lorenzo)</td>
         </tr>
         <tr>
-          <td>11:40 - 12:05</td>
+          <td>11:30 - 11:55</td>
           <td>Signal optimization of sbottom pair productions using MC simulations of p-p
 collisions at ATLAS detector at LHC (Marco Aparo)</td>
         </tr>
         <tr>
-          <td>12:05 - 12:30</td>
+          <td>11:55 - 12:20</td>
           <td>Vortex formation in self-gravitating protoplanetary disks (Kristof Rozgonyi)
 </td>
         </tr>
         <tr>
-          <td>13:00 - 14:30</td>
+          <td>12:30 - 14:00</td>
           <td>Lunch</td>
         </tr>
         <tr>
-          <td>14:30 - 14:55</td>
+          <td>14:00 - 14:25</td>
           <td>Effects of exoplanetary gravity on human colonization and the evolution of native lifeforms (Dora Klindžić)</td>
         </tr>
         <tr>
-          <td>14:55 - 15:20</td>
+          <td>14:25 - 14:50</td>
           <td>Hadrontherapy against cancer: an overview (Riccardo Ridolfi)</td>
         </tr>
         <tr>
-          <td>15:20 - 15:45</td>
+          <td>14:50 - 15:15</td>
           <td>Characterization of density fluctuations during inter-ELM periods in the MAST
 spherical tokamak (Lilla Vanó)</td>
+        </tr>
+        <tr>
+          <td>15:30 - 16:00</td>
+          <td>Coffee break</td>
         </tr>
         <tr>
           <td>16:00 - 17:00</td>
